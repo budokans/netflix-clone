@@ -8,9 +8,13 @@ export function JumbotronContainer() {
       {jumboData.map((item) => {
         return (
           <Jumbotron key={item.id} direction={item.direction}>
-            <Jumbotron.Title>{item.title}</Jumbotron.Title>
-            <Jumbotron.Subtitle>{item.subtitle}</Jumbotron.Subtitle>
-            <Jumbotron.Image src={item.image} alt={item.alt} />
+            <Jumbotron.Pane>
+              <Jumbotron.Title>{item.title}</Jumbotron.Title>
+              <Jumbotron.Subtitle>{item.subtitle}</Jumbotron.Subtitle>
+            </Jumbotron.Pane>
+            <Jumbotron.Pane>
+              <Jumbotron.Image src={item.image} alt={item.alt} />
+            </Jumbotron.Pane>
           </Jumbotron>
         );
       })}
