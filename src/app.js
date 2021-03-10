@@ -19,7 +19,6 @@ export function App() {
         <Route path="/">
           <Home />
         </Route>
-        np
       </Switch>
     </Router>
   );
