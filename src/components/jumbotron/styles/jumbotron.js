@@ -6,7 +6,7 @@ export const Inner = styled.div`
   justify-items: space-between;
   flex-direction: ${({ direction }) => direction};
   max-width: 1100px;
-  marign: auto;
+  margin: auto;
   width: 100%;
 
   @media (max-width: 1000px) {
