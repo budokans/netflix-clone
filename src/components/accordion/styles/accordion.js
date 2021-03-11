@@ -6,7 +6,7 @@ export const Container = styled.section`
 
 export const Inner = styled.div`
   display: flex;
-  padding: 70px 45px;
+  padding: 70px 120px;
   flex-direction: column;
   max-width: 815px;
   margin: auto;
@@ -45,6 +45,8 @@ export const Title = styled.h1`
 `;
 
 export const Header = styled.div`
+  display: flex;
+  justify-content: space-between;
   cursor: pointer;
   margin-bottom: 1px;
   font-size: 26px;
@@ -52,13 +54,18 @@ export const Header = styled.div`
   padding: 1.2em;
   user-select: none;
 
+  img {
+    filter: brightness(0) invert(1);
+    width: 24px;
+    height: 24px;
+  }
+
   @media (max-width: 600px) {
     font-size: 18px;
   }
 `;
 
 export const Body = styled.p`
-  max-width: 1200px;
   font-size: 26px;
   font-weight: normal;
   line-height: 1.35;
