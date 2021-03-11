@@ -14,14 +14,6 @@ export const Inner = styled.div`
   }
 `;
 
-export const Item = styled.div`
-  display: flex;
-  border-bottom: 8px solid #222;
-  padding: 50px 5%;
-  color: white;
-  overflow: hidden;
-`;
-
 export const Pane = styled.div`
   width: 50%;
 
@@ -30,6 +22,14 @@ export const Pane = styled.div`
     padding: 0 45px;
     text-align: center;
   }
+`;
+
+export const Item = styled.div`
+  display: flex;
+  border-bottom: 8px solid #222;
+  padding: 50px 5%;
+  color: white;
+  overflow: hidden;
 `;
 
 export const Container = styled.section`
