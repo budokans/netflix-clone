@@ -1,5 +1,5 @@
 import React from "react";
-import { OptForm } from "../components";
+import { OptForm, Feature } from "../components";
 import { HeaderContainer } from "../containers/header";
 import { JumbotronContainer } from "../containers/jumbotron";
 import { FAQsContainer } from "../containers/faqs";
@@ -10,12 +10,18 @@ export default function Home() {
     <>
       <HeaderContainer>
         <OptForm>
-          <OptForm.Text>
-            Ready to watch Netflix? Enter your email to create or restart your
-            membership.
-          </OptForm.Text>
-          <OptForm.Input placeholder="Email address" />
-          <OptForm.Button>Get started</OptForm.Button>
+          <Feature>
+            <Feature.Title>Unlimited movies, TV shows and more.</Feature.Title>
+            <Feature.Subtitle>
+              Watch anywhere. Cancel at any time.
+            </Feature.Subtitle>
+            <OptForm.Text>
+              Ready to watch Netflix? Enter your email to create or restart your
+              membership.
+            </OptForm.Text>
+            <OptForm.Input placeholder="Email address" />
+            <OptForm.Button>Get started</OptForm.Button>
+          </Feature>
         </OptForm>
       </HeaderContainer>
       <JumbotronContainer />
