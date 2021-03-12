@@ -16,7 +16,12 @@ export function FAQsContainer() {
         ))}
 
         <OptForm>
-          <OptForm.Input placeholder="Email Address" />
+          <OptForm.Text>
+            Ready to watch Netflix? Enter your email to create or restart your
+            membership.
+          </OptForm.Text>
+          <OptForm.Input placeholder="Email address" />
+          <OptForm.Button>Get started</OptForm.Button>
         </OptForm>
       </Accordion>
     </>
