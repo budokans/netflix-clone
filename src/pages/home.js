@@ -9,20 +9,20 @@ export default function Home() {
   return (
     <>
       <HeaderContainer>
-        <OptForm>
-          <Feature>
-            <Feature.Title>Unlimited movies, TV shows and more.</Feature.Title>
-            <Feature.Subtitle>
-              Watch anywhere. Cancel at any time.
-            </Feature.Subtitle>
+        <Feature>
+          <Feature.Title>Unlimited movies, TV shows and more.</Feature.Title>
+          <Feature.Subtitle>
+            Watch anywhere. Cancel at any time.
+          </Feature.Subtitle>
+          <OptForm>
             <OptForm.Text>
               Ready to watch Netflix? Enter your email to create or restart your
               membership.
             </OptForm.Text>
             <OptForm.Input placeholder="Email address" />
             <OptForm.Button>Get started</OptForm.Button>
-          </Feature>
-        </OptForm>
+          </OptForm>
+        </Feature>
       </HeaderContainer>
       <JumbotronContainer />
       <FAQsContainer />
