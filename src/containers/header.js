@@ -7,7 +7,7 @@ export function HeaderContainer({ children }) {
     <Header>
       <Header.Frame>
         <Header.Logo
-          path={ROUTES.HOME}
+          to={ROUTES.HOME}
           src="/images/misc/logo.svg"
           alt="Netflix"
         />
