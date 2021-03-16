@@ -7,6 +7,8 @@ export default function SignIn() {
   const [emailAddress, setEmailAddress] = useState("");
   const [password, setPassword] = useState("");
 
+  const isInvalid = password === "" || emailAddress === "";
+
   function handleSignIn(e) {
     e.preventDefault();
 
@@ -25,16 +27,19 @@ export default function SignIn() {
             placeholder="Email address"
             value={emailAddress}
             onChange={(e) => setEmailAddress(e.target.value)}
+            autoComplete="email"
+            required
           />
 
           <Form.Input
             type="password"
             placeholder="Password"
             value={password}
-            autoComplete="off"
             onChange={(e) => setPassword(e.target.value)}
+            autoComplete="password"
+            required
           />
-          <Form.Submit disabled={false} type="submit">
+          <Form.Submit disabled={isInvalid} type="submit">
             Sign in
           </Form.Submit>
 
