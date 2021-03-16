@@ -6,7 +6,7 @@ import { SelectProfileContainer } from "./profiles";
 import { FooterContainer } from "./footer";
 
 export function BrowseContainer() {
-  const [category, setCategory] = useState("series");
+  const [category, setCategory] = useState("shows");
   const [profile, setProfile] = useState({});
   const [loading, setLoading] = useState(true);
 
@@ -28,19 +28,31 @@ export function BrowseContainer() {
               alt="Netflix"
             />
             <Header.Link
-              active={category === "series" ? "true" : "false"}
-              onClick={() => setCategory("series")}
+              active={category === "shows" ? true : false}
+              onClick={() => setCategory("shows")}
             >
-              Series
+              TV Shows
             </Header.Link>
             <Header.Link
-              active={category === "films" ? "true" : "false"}
+              active={category === "films" ? true : false}
               onClick={() => setCategory("films")}
             >
               Films
             </Header.Link>
           </Header.Group>
         </Header.Frame>
+
+        <Header.Feature>
+          <Header.FeatureCTA>Watch Joker</Header.FeatureCTA>
+          <Header.Text>
+            Forever alone in a crowd, failed comedian Arthur Fleck seeks
+            connection as he walks the streets of Gotham City. Arthur wears two
+            masks -- the one he paints for his day job as a clown, and the guise
+            he projects in a futile attempt to feel like he's part of the world
+            around him.
+          </Header.Text>
+          <Header.PlayButton>Play</Header.PlayButton>
+        </Header.Feature>
       </Header>
       <FooterContainer />
     </>

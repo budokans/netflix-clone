@@ -8,6 +8,9 @@ import {
   Link,
   Text,
   ButtonLink,
+  FeatureCTA,
+  Feature,
+  PlayButton,
 } from "./styles/header";
 
 export default function Header({ bg = true, children, ...restProps }) {
@@ -40,4 +43,16 @@ Header.Link = function HeaderLink({ children, ...restProps }) {
 
 Header.ButtonLink = function HeaderButtonLink({ children, ...restProps }) {
   return <ButtonLink {...restProps}>{children}</ButtonLink>;
+};
+
+Header.Feature = function HeaderFeature({ children, ...restProps }) {
+  return <Feature>{children}</Feature>;
+};
+
+Header.FeatureCTA = function HeaderFeatureCTA({ children, ...restProps }) {
+  return <FeatureCTA>{children}</FeatureCTA>;
+};
+
+Header.PlayButton = function HeaderPlayButton({ children, ...restProps }) {
+  return <PlayButton {...restProps}>{children}</PlayButton>;
 };
