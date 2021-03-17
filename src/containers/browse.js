@@ -6,7 +6,7 @@ import { SelectProfileContainer } from "./profiles";
 import { FooterContainer } from "./footer";
 
 export function BrowseContainer({ slides }) {
-  const [category, setCategory] = useState("shows");
+  const [category, setCategory] = useState("series");
   const [profile, setProfile] = useState({});
   const [loading, setLoading] = useState(true);
   const [searchTerm, setSearchTerm] = useState("");
@@ -42,8 +42,8 @@ export function BrowseContainer({ slides }) {
             />
 
             <Header.Link
-              active={category === "shows" ? true : false}
-              onClick={() => setCategory("shows")}
+              active={category === "series" ? true : false}
+              onClick={() => setCategory("series")}
             >
               TV Shows
             </Header.Link>
@@ -97,7 +97,7 @@ export function BrowseContainer({ slides }) {
       {/* Category i.e. films or show will be shown per card group. The slideItem is a genre */}
       <Card.Group>
         {slideRows.map((slideItem) => (
-          <Card key={`${category}-${slideItem.title.tolowerCase()}`}>
+          <Card key={`${category}-${slideItem.title.toLowerCase()}`}>
             {/* Genre title */}
             <Card.Title>{slideItem.title}</Card.Title>
             {/* Actual titles within genres */}
@@ -114,6 +114,7 @@ export function BrowseContainer({ slides }) {
                 </Card.Item>
               ))}
             </Card.Entities>
+            <Card.Feature category={category}></Card.Feature>
           </Card>
         ))}
       </Card.Group>
