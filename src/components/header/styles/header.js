@@ -172,7 +172,7 @@ export const Dropdown = styled.div`
   background-color: black;
   padding: 15px 35px 15px 15px;
   width: 150px;
-  top: 48px;
+  top: 32px;
   right: 0;
 
   ${Group}:last-of-type ${Link} {
