@@ -14,6 +14,9 @@ import {
   Search,
   SearchIcon,
   SearchInput,
+  Profile,
+  Picture,
+  Dropdown,
 } from "./styles/header";
 
 export default function Header({ bg = true, children, ...restProps }) {
@@ -26,28 +29,6 @@ Header.Frame = function HeaderFrame({ children, ...restProps }) {
 
 Header.Group = function HeaderGroup({ children, ...restProps }) {
   return <Group {...restProps}>{children}</Group>;
-};
-
-Header.Search = function HeaderSearch({
-  searchTerm,
-  setSearchTerm,
-  ...restProps
-}) {
-  const [searchActive, setSearchActive] = useState(false);
-
-  return (
-    <Search {...restProps}>
-      <SearchIcon onClick={() => setSearchActive(!searchActive)}>
-        <img src="/images/icons/search.png" alt="Search" />
-      </SearchIcon>
-      <SearchInput
-        onChange={(e) => setSearchTerm(e.target.value)}
-        placeholder="Search films and shows"
-        value={searchTerm}
-        active={searchActive}
-      />
-    </Search>
-  );
 };
 
 Header.Logo = function HeaderLogo({ to, ...restProps }) {
@@ -80,4 +61,38 @@ Header.FeatureCTA = function HeaderFeatureCTA({ children, ...restProps }) {
 
 Header.PlayButton = function HeaderPlayButton({ children, ...restProps }) {
   return <PlayButton {...restProps}>{children}</PlayButton>;
+};
+
+Header.Search = function HeaderSearch({
+  searchTerm,
+  setSearchTerm,
+  ...restProps
+}) {
+  const [searchActive, setSearchActive] = useState(false);
+
+  return (
+    <Search {...restProps}>
+      <SearchIcon onClick={() => setSearchActive(!searchActive)}>
+        <img src="/images/icons/search.png" alt="Search" />
+      </SearchIcon>
+      <SearchInput
+        onChange={(e) => setSearchTerm(e.target.value)}
+        placeholder="Search films and shows"
+        value={searchTerm}
+        active={searchActive}
+      />
+    </Search>
+  );
+};
+
+Header.Profile = function HeaderProfile({ children, ...restProps }) {
+  return <Profile {...restProps}>{children}</Profile>;
+};
+
+Header.Picture = function HeaderPicture({ src, ...restProps }) {
+  return <Picture src={`images/misc/user/${src}.png`} {...restProps} />;
+};
+
+Header.Dropdown = function HeaderDropdown({ children, ...restProps }) {
+  return <Dropdown {...restProps}>{children}</Dropdown>;
 };

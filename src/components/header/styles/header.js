@@ -156,3 +156,9 @@ export const SearchInput = styled.input`
   opacity: ${({ active }) => (active === true ? "1" : "0")};
   width: ${({ active }) => (active === true ? "200px" : "0px")};
 `;
+
+export const Picture = styled.button``;
+
+export const Dropdown = styled.div``;
+
+export const Profile = styled.div``;
