@@ -157,8 +157,64 @@ export const SearchInput = styled.input`
   width: ${({ active }) => (active === true ? "200px" : "0px")};
 `;
 
-export const Picture = styled.button``;
+export const Picture = styled.button`
+  background: url(${({ src }) => src});
+  background-size: contain;
+  border: 0;
+  width: 32px;
+  height: 32px;
+  cursor: pointer;
+`;
 
-export const Dropdown = styled.div``;
+export const Dropdown = styled.div`
+  display: none;
+  position: absolute;
+  background-color: black;
+  padding: 15px 35px 15px 15px;
+  width: 150px;
+  top: 48px;
+  right: 0;
 
-export const Profile = styled.div``;
+  ${Group}:last-of-type ${Link} {
+    cursor: pointer;
+  }
+
+  ${Group} {
+    margin-bottom: 20px;
+
+    &:last-of-type {
+      margin-bottom: 0;
+    }
+
+    ${Link}, ${Picture} {
+      cursor: default;
+    }
+
+    button {
+      margin-right: 10px;
+    }
+
+    p {
+      font-size: 16px;
+      font-weight: bold;
+      margin-bottom: 0;
+      margin-top: 0;
+    }
+  }
+`;
+
+export const Profile = styled.div`
+  display: flex;
+  align-items: center;
+  margin-left: 20px;
+  position: relative;
+
+  button {
+    cursor: pointer;
+  }
+
+  &:hover > ${Dropdown} {
+    display: flex;
+    flex-direction: column;
+  }
+`;

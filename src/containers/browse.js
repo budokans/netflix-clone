@@ -61,7 +61,7 @@ export function BrowseContainer() {
 
                 <Header.Group>
                   <Header.Link onClick={() => firebase.auth().signOut()}>
-                    Sign out
+                    Sign out of Netflix
                   </Header.Link>
                 </Header.Group>
               </Header.Dropdown>
