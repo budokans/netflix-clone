@@ -123,3 +123,7 @@ export const PlayButton = styled.button`
         color: white;
     }
 `;
+
+export const Search = styled.div``;
+export const SearchInput = styled.input``;
+export const SearchIcon = styled.button``;
