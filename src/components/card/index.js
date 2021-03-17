@@ -83,6 +83,7 @@ Card.Feature = function CardFeature({ category, children, ...restProps }) {
 
   return showFeature ? (
     <Feature
+      {...restProps}
       src={`/images/${category}/${itemFeature.genre}/${itemFeature.slug}/large.jpg`}
     >
       <Content>
@@ -101,8 +102,8 @@ Card.Feature = function CardFeature({ category, children, ...restProps }) {
               itemFeature.genre.slice(1)}
           </FeatureText>
         </Group>
+        {children}
       </Content>
-      {children}
     </Feature>
   ) : null;
 };
