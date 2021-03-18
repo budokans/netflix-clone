@@ -32,8 +32,8 @@ export default function SignUp() {
             setFirstName("");
             setEmailAddress("");
             setError("");
-            history.push(ROUTES.BROWSE);
           })
+          .then(() => history.push(ROUTES.BROWSE))
       )
       .catch((err) => setError(err.message));
   }

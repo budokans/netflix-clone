@@ -27,8 +27,8 @@ export default function SignIn() {
         setEmailAddress("");
         setPassword("");
         setError("");
-        history.push(ROUTES.BROWSE);
       })
+      .then(() => history.push(ROUTES.BROWSE))
       .catch((err) => setError(err.message));
   }
 
