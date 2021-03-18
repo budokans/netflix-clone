@@ -110,14 +110,17 @@ export function BrowseContainer({ slides }) {
 
       {/* Category i.e. films or show will be shown per card group. The slideItem is a genre */}
       <Card.Group>
-        {slideRows.map((slideItem) => (
-          <Card key={`${category}-${slideItem.title.toLowerCase()}`}>
+        {slideRows.map((slideItem, index) => (
+          <Card
+            key={`${category}-${slideItem.title.toLowerCase()}`}
+            containerIndex={index}
+          >
             {/* Genre title */}
             <Card.Title>{slideItem.title}</Card.Title>
             {/* Actual titles within genres */}
             <Card.Entities>
               {slideItem.data.map((item) => (
-                <Card.Item key={item.docId} item={item}>
+                <Card.Item key={item.docId} item={item} containerIndex={index}>
                   <Card.Image
                     src={`/images/${category}/${item.genre}/${item.slug}/small.jpg`}
                   />
@@ -129,7 +132,7 @@ export function BrowseContainer({ slides }) {
               ))}
             </Card.Entities>
 
-            <Card.Feature category={category}>
+            <Card.Feature category={category} containerIndex={index}>
               <Player>
                 <Player.Button />
                 <Player.Video />
