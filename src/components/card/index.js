@@ -20,20 +20,27 @@ import {
 const FeatureContext = createContext();
 
 export default function Card({ children, ...restProps }) {
-  const [showFeature, setShowFeature] = useState(false);
-  const [itemFeature, setItemFeature] = useState(false);
-
-  return (
-    <FeatureContext.Provider
-      value={{ showFeature, setShowFeature, itemFeature, setItemFeature }}
-    >
-      <Container {...restProps}>{children}</Container>
-    </FeatureContext.Provider>
-  );
+  return <Container {...restProps}>{children}</Container>;
 }
 
 Card.Group = function CardGroup({ children, ...restProps }) {
-  return <Group {...restProps}>{children}</Group>;
+  const [showFeature, setShowFeature] = useState(false);
+  const [itemFeature, setItemFeature] = useState(false);
+  const [activeContainerIndex, setActiveContainerIndex] = useState(false);
+  return (
+    <FeatureContext.Provider
+      value={{
+        showFeature,
+        setShowFeature,
+        itemFeature,
+        setItemFeature,
+        activeContainerIndex,
+        setActiveContainerIndex,
+      }}
+    >
+      <Group {...restProps}>{children}</Group>
+    </FeatureContext.Provider>
+  );
 };
 
 Card.Title = function CardTitle({ children, ...restProps }) {
@@ -56,12 +63,27 @@ Card.Meta = function CardMeta({ children, ...restProps }) {
   return <Meta {...restProps}>{children}</Meta>;
 };
 
-Card.Item = function CardItem({ item, children, ...restProps }) {
-  const { setShowFeature, setItemFeature } = useContext(FeatureContext);
+Card.Item = function CardItem({
+  item,
+  containerIndex,
+  children,
+  ...restProps
+}) {
+  const {
+    setShowFeature,
+    setItemFeature,
+    activeContainerIndex,
+    setActiveContainerIndex,
+  } = useContext(FeatureContext);
+
+  const isActiveContainer = containerIndex === activeContainerIndex;
 
   return (
     <Item
       onClick={() => {
+        if (!isActiveContainer) {
+          setActiveContainerIndex(containerIndex);
+        }
         setItemFeature(item);
         setShowFeature(true);
       }}
@@ -76,12 +98,22 @@ Card.Image = function CardImage({ ...restProps }) {
   return <Image {...restProps} />;
 };
 
-Card.Feature = function CardFeature({ category, children, ...restProps }) {
-  const { itemFeature, showFeature, setShowFeature } = useContext(
-    FeatureContext
-  );
+Card.Feature = function CardFeature({
+  category,
+  containerIndex,
+  children,
+  ...restProps
+}) {
+  const {
+    itemFeature,
+    showFeature,
+    setShowFeature,
+    activeContainerIndex,
+  } = useContext(FeatureContext);
 
-  return showFeature ? (
+  const isActiveContainer = containerIndex === activeContainerIndex;
+
+  return showFeature && isActiveContainer ? (
     <Feature
       {...restProps}
       src={`/images/${category}/${itemFeature.genre}/${itemFeature.slug}/large.jpg`}
@@ -89,7 +121,11 @@ Card.Feature = function CardFeature({ category, children, ...restProps }) {
       <Content>
         <FeatureTitle>{itemFeature.title}</FeatureTitle>
         <FeatureText>{itemFeature.description}</FeatureText>
-        <FeatureClose onClick={() => setShowFeature(false)}>
+        <FeatureClose
+          onClick={() => {
+            setShowFeature(false);
+          }}
+        >
           <img src="/images/icons/close.png" alt="Close" />
         </FeatureClose>
 
