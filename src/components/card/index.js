@@ -104,12 +104,8 @@ Card.Feature = function CardFeature({
   children,
   ...restProps
 }) {
-  const {
-    itemFeature,
-    showFeature,
-    setShowFeature,
-    activeContainerIndex,
-  } = useContext(FeatureContext);
+  const { itemFeature, showFeature, setShowFeature, activeContainerIndex } =
+    useContext(FeatureContext);
 
   const isActiveContainer = containerIndex === activeContainerIndex;
 

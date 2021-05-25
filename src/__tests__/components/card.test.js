@@ -27,7 +27,7 @@ const slideRows = [
         description:
           "A motley group of office workers go through hilarious misadventures at the Scranton, Pennsylvania, branch of the Dunder Mifflin Paper Company.",
         genre: "comedies",
-        maturity: "15",
+        maturity: "5",
         slug: "the-office",
         id: "89baf512-f2c4-4a23-8838-b4c75c755d98",
         docId: "ULqWURe13fPYZ8FGhO6C",
@@ -48,7 +48,12 @@ const tree = (
         {/* Actual titles within genres */}
         <Card.Entities>
           {slideItem.data.map((item) => (
-            <Card.Item key={item.docId} item={item} containerIndex={index}>
+            <Card.Item
+              key={item.docId}
+              item={item}
+              containerIndex={index}
+              data-testid={`${item.slug}-card-item`}
+            >
               <Card.Image
                 src={`/images/${category}/${item.genre}/${item.slug}/small.jpg`}
               />
@@ -84,5 +89,47 @@ describe("<Card />", () => {
     expect(getByText(/A motley group of office workers/)).toBeTruthy();
 
     expect(container.firstChild).toMatchSnapshot();
+  });
+
+  it("Clicking <Card /> and opens the card feature and clicking close button closes it", () => {
+    const { container, queryByText, getByTestId, getByAltText } = render(tree);
+
+    // Before opening card
+    expect(container.firstChild).toMatchSnapshot();
+    expect(queryByText("18")).toBeFalsy();
+    fireEvent.click(getByTestId("tiger-king-card-item"));
+
+    // Before clicking close button
+    expect(container.firstChild).toMatchSnapshot();
+    expect(queryByText("18")).toBeTruthy();
+    fireEvent.click(getByAltText("Close"));
+
+    // Before opening another card
+    expect(container.firstChild).toMatchSnapshot();
+    expect(queryByText("PG")).toBeFalsy();
+    fireEvent.click(getByTestId("the-office-card-item"));
+
+    expect(container.firstChild).toMatchSnapshot();
+    expect(queryByText("PG")).toBeTruthy();
+  });
+
+  it("With one feature open, clicking another will open that feature and close the current one", () => {
+    const { container, queryByTestId, queryByText } = render(tree);
+
+    // Before opening first card feature
+    expect(container.firstChild).toMatchSnapshot();
+    expect(queryByText("18")).toBeFalsy();
+    fireEvent.click(queryByTestId("tiger-king-card-item"));
+
+    // Before clicking another card to open another feature
+    expect(container.firstChild).toMatchSnapshot();
+    expect(queryByText("18")).toBeTruthy();
+    expect(queryByText("PG")).toBeFalsy();
+    fireEvent.click(queryByTestId("the-office-card-item"));
+
+    // After clicking the second/last card
+    expect(container.firstChild).toMatchSnapshot();
+    expect(queryByText("18")).toBeFalsy();
+    expect(queryByText("PG")).toBeTruthy();
   });
 });
