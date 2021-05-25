@@ -81,6 +81,173 @@ exports[`<Accordion /> opens and closes the <Accordion.Body /> when <Accordion.H
 </section>
 `;
 
+exports[`<Accordion /> opens and closes the <Accordion.Body /> when <Accordion.Header /> is clicked 2`] = `
+<section
+  class="accordion__Container-sc-1wnyt6p-0 iwAisH"
+>
+  <div
+    class="accordion__Inner-sc-1wnyt6p-1 gBZrXQ"
+  >
+    <h1
+      class="accordion__Title-sc-1wnyt6p-3 cQxyBa"
+    >
+      Frequently Asked Questions
+    </h1>
+    <div
+      class="accordion__Item-sc-1wnyt6p-2 cchlqp"
+    >
+      <div
+        class="accordion__Header-sc-1wnyt6p-4 dyEQIz"
+      >
+        What is Netflix?
+        <img
+          alt="Open"
+          src="/images/icons/add.png"
+        />
+      </div>
+    </div>
+    <div
+      class="accordion__Item-sc-1wnyt6p-2 cchlqp"
+    >
+      <div
+        class="accordion__Header-sc-1wnyt6p-4 dyEQIz"
+      >
+        How much does Netflix cost?
+        <img
+          alt="Close"
+          src="/images/icons/close-slim.png"
+        />
+      </div>
+      <p
+        class="accordion__Body-sc-1wnyt6p-5 jrMtVs"
+      >
+        Watch Netflix on your smartphone, tablet, Smart TV, laptop or streaming device, all for one fixed monthly fee. Plans range from $11.99 to $21.99 per month. No extra costs, no contracts.
+      </p>
+    </div>
+    <div
+      class="accordion__Item-sc-1wnyt6p-2 cchlqp"
+    >
+      <div
+        class="accordion__Header-sc-1wnyt6p-4 dyEQIz"
+      >
+        Where can I watch?
+        <img
+          alt="Open"
+          src="/images/icons/add.png"
+        />
+      </div>
+    </div>
+    <div
+      class="accordion__Item-sc-1wnyt6p-2 cchlqp"
+    >
+      <div
+        class="accordion__Header-sc-1wnyt6p-4 dyEQIz"
+      >
+        How do I cancel?
+        <img
+          alt="Open"
+          src="/images/icons/add.png"
+        />
+      </div>
+    </div>
+    <div
+      class="accordion__Item-sc-1wnyt6p-2 cchlqp"
+    >
+      <div
+        class="accordion__Header-sc-1wnyt6p-4 dyEQIz"
+      >
+        What can I watch on Netflix?
+        <img
+          alt="Open"
+          src="/images/icons/add.png"
+        />
+      </div>
+    </div>
+  </div>
+</section>
+`;
+
+exports[`<Accordion /> opens and closes the <Accordion.Body /> when <Accordion.Header /> is clicked 3`] = `
+<section
+  class="accordion__Container-sc-1wnyt6p-0 iwAisH"
+>
+  <div
+    class="accordion__Inner-sc-1wnyt6p-1 gBZrXQ"
+  >
+    <h1
+      class="accordion__Title-sc-1wnyt6p-3 cQxyBa"
+    >
+      Frequently Asked Questions
+    </h1>
+    <div
+      class="accordion__Item-sc-1wnyt6p-2 cchlqp"
+    >
+      <div
+        class="accordion__Header-sc-1wnyt6p-4 dyEQIz"
+      >
+        What is Netflix?
+        <img
+          alt="Open"
+          src="/images/icons/add.png"
+        />
+      </div>
+    </div>
+    <div
+      class="accordion__Item-sc-1wnyt6p-2 cchlqp"
+    >
+      <div
+        class="accordion__Header-sc-1wnyt6p-4 dyEQIz"
+      >
+        How much does Netflix cost?
+        <img
+          alt="Open"
+          src="/images/icons/add.png"
+        />
+      </div>
+    </div>
+    <div
+      class="accordion__Item-sc-1wnyt6p-2 cchlqp"
+    >
+      <div
+        class="accordion__Header-sc-1wnyt6p-4 dyEQIz"
+      >
+        Where can I watch?
+        <img
+          alt="Open"
+          src="/images/icons/add.png"
+        />
+      </div>
+    </div>
+    <div
+      class="accordion__Item-sc-1wnyt6p-2 cchlqp"
+    >
+      <div
+        class="accordion__Header-sc-1wnyt6p-4 dyEQIz"
+      >
+        How do I cancel?
+        <img
+          alt="Open"
+          src="/images/icons/add.png"
+        />
+      </div>
+    </div>
+    <div
+      class="accordion__Item-sc-1wnyt6p-2 cchlqp"
+    >
+      <div
+        class="accordion__Header-sc-1wnyt6p-4 dyEQIz"
+      >
+        What can I watch on Netflix?
+        <img
+          alt="Open"
+          src="/images/icons/add.png"
+        />
+      </div>
+    </div>
+  </div>
+</section>
+`;
+
 exports[`<Accordion /> renders the <Accordion /> with populated data 1`] = `
 <section
   class="accordion__Container-sc-1wnyt6p-0 iwAisH"

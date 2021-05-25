@@ -32,9 +32,12 @@ describe("<Accordion />", () => {
     const { container, queryByText } = render(tree);
     const howMuchDoesNetflixCostText = parse(faqsData[1].body);
 
+    expect(container.firstChild).toMatchSnapshot();
     expect(queryByText(howMuchDoesNetflixCostText)).toBeFalsy();
+
     fireEvent.click(queryByText("How much does Netflix cost?"));
     expect(queryByText(howMuchDoesNetflixCostText)).toBeTruthy();
+    expect(container.firstChild).toMatchSnapshot();
 
     fireEvent.click(queryByText("How much does Netflix cost?"));
     expect(queryByText(howMuchDoesNetflixCostText)).toBeFalsy();
