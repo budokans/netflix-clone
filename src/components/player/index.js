@@ -19,7 +19,7 @@ Player.Video = function PlayerVideo({ ...restProps }) {
 
   return showPlayer
     ? ReactDOM.createPortal(
-        <Overlay onClick={() => setShowPlayer(false)}>
+        <Overlay onClick={() => setShowPlayer(false)} data-testid="player">
           <Inner {...restProps}>
             <video id="netflix-player" controls>
               <source src="/videos/bunny.mp4" type="video/mp4" />

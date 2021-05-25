@@ -1,0 +1,134 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<Footer /> renders the <Footer /> with populated data 1`] = `
+<div
+  class="footer__Container-eh6b4z-0 qwEBr"
+>
+  <p
+    class="footer__Title-eh6b4z-3 cSpvQd"
+  >
+    Questions? Phone 0800 472 310
+  </p>
+  <div
+    class="footer__Break-eh6b4z-5 dJUYaW"
+  />
+  <div
+    class="footer__Row-eh6b4z-2 ljTFhy"
+  >
+    <div
+      class="footer__Column-eh6b4z-1 aKanr"
+    >
+      <a
+        class="footer__Link-eh6b4z-4 bIcKKZ"
+        href="#"
+      >
+        FAQs
+      </a>
+      <a
+        class="footer__Link-eh6b4z-4 bIcKKZ"
+        href="#"
+      >
+        Investor Relations
+      </a>
+      <a
+        class="footer__Link-eh6b4z-4 bIcKKZ"
+        href="#"
+      >
+        Privacy
+      </a>
+      <a
+        class="footer__Link-eh6b4z-4 bIcKKZ"
+        href="#"
+      >
+        Speed test
+      </a>
+    </div>
+    <div
+      class="footer__Column-eh6b4z-1 aKanr"
+    >
+      <a
+        class="footer__Link-eh6b4z-4 bIcKKZ"
+        href="#"
+      >
+        Help Center
+      </a>
+      <a
+        class="footer__Link-eh6b4z-4 bIcKKZ"
+        href="#"
+      >
+        Jobs
+      </a>
+      <a
+        class="footer__Link-eh6b4z-4 bIcKKZ"
+        href="#"
+      >
+        Cookie preferences
+      </a>
+      <a
+        class="footer__Link-eh6b4z-4 bIcKKZ"
+        href="#"
+      >
+        Legal notices
+      </a>
+    </div>
+    <div
+      class="footer__Column-eh6b4z-1 aKanr"
+    >
+      <a
+        class="footer__Link-eh6b4z-4 bIcKKZ"
+        href="#"
+      >
+        Account
+      </a>
+      <a
+        class="footer__Link-eh6b4z-4 bIcKKZ"
+        href="#"
+      >
+        Ways to watch
+      </a>
+      <a
+        class="footer__Link-eh6b4z-4 bIcKKZ"
+        href="#"
+      >
+        Corporate Information
+      </a>
+      <a
+        class="footer__Link-eh6b4z-4 bIcKKZ"
+        href="#"
+      >
+        Netflix Originals
+      </a>
+    </div>
+    <div
+      class="footer__Column-eh6b4z-1 aKanr"
+    >
+      <a
+        class="footer__Link-eh6b4z-4 bIcKKZ"
+        href="#"
+      >
+        Media Centre
+      </a>
+      <a
+        class="footer__Link-eh6b4z-4 bIcKKZ"
+        href="#"
+      >
+        Terms of Use
+      </a>
+      <a
+        class="footer__Link-eh6b4z-4 bIcKKZ"
+        href="#"
+      >
+        Contact us
+      </a>
+    </div>
+  </div>
+  <div
+    class="footer__Break-eh6b4z-5 dJUYaW"
+  />
+  <p
+    class="footer__Text-eh6b4z-6 jVcuq"
+  >
+    Netflix New Zealand
+  </p>
+</div>
+`;

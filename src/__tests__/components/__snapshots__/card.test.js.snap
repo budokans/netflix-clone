@@ -1,0 +1,841 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<Card /> Clicking <Card /> and opens the card feature and clicking close button closes it 1`] = `
+<div
+  class="card__Group-sc-1tn30zk-2 ksTbFs"
+>
+  <div
+    class="card__Container-sc-1tn30zk-1 qpcHX"
+  >
+    <p
+      class="card__Title-sc-1tn30zk-0 iPHpya"
+    >
+      Documentaries
+    </p>
+    <div
+      class="card__Entities-sc-1tn30zk-5 bJGxpN"
+    >
+      <div
+        class="card__Item-sc-1tn30zk-8 hllYeq"
+        data-testid="tiger-king-card-item"
+      >
+        <img
+          class="card__Image-sc-1tn30zk-7 jVaXVh"
+          src="/images/series/documentaries/tiger-king/small.jpg"
+        />
+        <div
+          class="card__Meta-sc-1tn30zk-6 hSiHRx"
+        >
+          <p
+            class="card__Subtitle-sc-1tn30zk-3 hRkAZG"
+          >
+            Tiger King
+          </p>
+          <p
+            class="card__Text-sc-1tn30zk-4 fwLGcr"
+          >
+            An exploration of big cat breeding and its bizarre underworld, populated by eccentric characters.
+          </p>
+        </div>
+      </div>
+    </div>
+  </div>
+  <div
+    class="card__Container-sc-1tn30zk-1 qpcHX"
+  >
+    <p
+      class="card__Title-sc-1tn30zk-0 iPHpya"
+    >
+      Comedies
+    </p>
+    <div
+      class="card__Entities-sc-1tn30zk-5 bJGxpN"
+    >
+      <div
+        class="card__Item-sc-1tn30zk-8 hllYeq"
+        data-testid="the-office-card-item"
+      >
+        <img
+          class="card__Image-sc-1tn30zk-7 jVaXVh"
+          src="/images/series/comedies/the-office/small.jpg"
+        />
+        <div
+          class="card__Meta-sc-1tn30zk-6 hSiHRx"
+        >
+          <p
+            class="card__Subtitle-sc-1tn30zk-3 hRkAZG"
+          >
+            The Office
+          </p>
+          <p
+            class="card__Text-sc-1tn30zk-4 fwLGcr"
+          >
+            A motley group of office workers go through hilarious misadventures at the Scranton, Pennsylvania, branch of the Dunder Mifflin Paper Company.
+          </p>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`<Card /> Clicking <Card /> and opens the card feature and clicking close button closes it 2`] = `
+<div
+  class="card__Group-sc-1tn30zk-2 ksTbFs"
+>
+  <div
+    class="card__Container-sc-1tn30zk-1 qpcHX"
+  >
+    <p
+      class="card__Title-sc-1tn30zk-0 iPHpya"
+    >
+      Documentaries
+    </p>
+    <div
+      class="card__Entities-sc-1tn30zk-5 bJGxpN"
+    >
+      <div
+        class="card__Item-sc-1tn30zk-8 hllYeq"
+        data-testid="tiger-king-card-item"
+      >
+        <img
+          class="card__Image-sc-1tn30zk-7 jVaXVh"
+          src="/images/series/documentaries/tiger-king/small.jpg"
+        />
+        <div
+          class="card__Meta-sc-1tn30zk-6 hSiHRx"
+        >
+          <p
+            class="card__Subtitle-sc-1tn30zk-3 hRkAZG"
+          >
+            Tiger King
+          </p>
+          <p
+            class="card__Text-sc-1tn30zk-4 fwLGcr"
+          >
+            An exploration of big cat breeding and its bizarre underworld, populated by eccentric characters.
+          </p>
+        </div>
+      </div>
+    </div>
+    <div
+      class="card__Feature-sc-1tn30zk-10 lfPcaO"
+      src="/images/series/documentaries/tiger-king/large.jpg"
+    >
+      <div
+        class="card__Content-sc-1tn30zk-13 diFTUM"
+      >
+        <p
+          class="card__Title-sc-1tn30zk-0 card__FeatureTitle-sc-1tn30zk-11 iPHpya gfGINs"
+        >
+          Tiger King
+        </p>
+        <p
+          class="card__FeatureText-sc-1tn30zk-9 gwQeKE"
+        >
+          An exploration of big cat breeding and its bizarre underworld, populated by eccentric characters.
+        </p>
+        <button
+          class="card__FeatureClose-sc-1tn30zk-12 bqXOHA"
+        >
+          <img
+            alt="Close"
+            src="/images/icons/close.png"
+          />
+        </button>
+        <div
+          class="card__Group-sc-1tn30zk-2 quZvM"
+        >
+          <div
+            class="card__Maturity-sc-1tn30zk-14 evEtKC"
+          >
+            18
+             
+          </div>
+          <p
+            class="card__FeatureText-sc-1tn30zk-9 kEWXEW"
+            font-weight="bold"
+          >
+            Documentaries
+          </p>
+        </div>
+        <div
+          class="player__Container-sc-1aq7af5-0"
+        >
+          <button
+            class="player__Button-sc-1aq7af5-4 iHPtbY"
+          >
+            Play
+          </button>
+        </div>
+      </div>
+    </div>
+  </div>
+  <div
+    class="card__Container-sc-1tn30zk-1 qpcHX"
+  >
+    <p
+      class="card__Title-sc-1tn30zk-0 iPHpya"
+    >
+      Comedies
+    </p>
+    <div
+      class="card__Entities-sc-1tn30zk-5 bJGxpN"
+    >
+      <div
+        class="card__Item-sc-1tn30zk-8 hllYeq"
+        data-testid="the-office-card-item"
+      >
+        <img
+          class="card__Image-sc-1tn30zk-7 jVaXVh"
+          src="/images/series/comedies/the-office/small.jpg"
+        />
+        <div
+          class="card__Meta-sc-1tn30zk-6 hSiHRx"
+        >
+          <p
+            class="card__Subtitle-sc-1tn30zk-3 hRkAZG"
+          >
+            The Office
+          </p>
+          <p
+            class="card__Text-sc-1tn30zk-4 fwLGcr"
+          >
+            A motley group of office workers go through hilarious misadventures at the Scranton, Pennsylvania, branch of the Dunder Mifflin Paper Company.
+          </p>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`<Card /> Clicking <Card /> and opens the card feature and clicking close button closes it 3`] = `
+<div
+  class="card__Group-sc-1tn30zk-2 ksTbFs"
+>
+  <div
+    class="card__Container-sc-1tn30zk-1 qpcHX"
+  >
+    <p
+      class="card__Title-sc-1tn30zk-0 iPHpya"
+    >
+      Documentaries
+    </p>
+    <div
+      class="card__Entities-sc-1tn30zk-5 bJGxpN"
+    >
+      <div
+        class="card__Item-sc-1tn30zk-8 hllYeq"
+        data-testid="tiger-king-card-item"
+      >
+        <img
+          class="card__Image-sc-1tn30zk-7 jVaXVh"
+          src="/images/series/documentaries/tiger-king/small.jpg"
+        />
+        <div
+          class="card__Meta-sc-1tn30zk-6 hSiHRx"
+        >
+          <p
+            class="card__Subtitle-sc-1tn30zk-3 hRkAZG"
+          >
+            Tiger King
+          </p>
+          <p
+            class="card__Text-sc-1tn30zk-4 fwLGcr"
+          >
+            An exploration of big cat breeding and its bizarre underworld, populated by eccentric characters.
+          </p>
+        </div>
+      </div>
+    </div>
+  </div>
+  <div
+    class="card__Container-sc-1tn30zk-1 qpcHX"
+  >
+    <p
+      class="card__Title-sc-1tn30zk-0 iPHpya"
+    >
+      Comedies
+    </p>
+    <div
+      class="card__Entities-sc-1tn30zk-5 bJGxpN"
+    >
+      <div
+        class="card__Item-sc-1tn30zk-8 hllYeq"
+        data-testid="the-office-card-item"
+      >
+        <img
+          class="card__Image-sc-1tn30zk-7 jVaXVh"
+          src="/images/series/comedies/the-office/small.jpg"
+        />
+        <div
+          class="card__Meta-sc-1tn30zk-6 hSiHRx"
+        >
+          <p
+            class="card__Subtitle-sc-1tn30zk-3 hRkAZG"
+          >
+            The Office
+          </p>
+          <p
+            class="card__Text-sc-1tn30zk-4 fwLGcr"
+          >
+            A motley group of office workers go through hilarious misadventures at the Scranton, Pennsylvania, branch of the Dunder Mifflin Paper Company.
+          </p>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`<Card /> Clicking <Card /> and opens the card feature and clicking close button closes it 4`] = `
+<div
+  class="card__Group-sc-1tn30zk-2 ksTbFs"
+>
+  <div
+    class="card__Container-sc-1tn30zk-1 qpcHX"
+  >
+    <p
+      class="card__Title-sc-1tn30zk-0 iPHpya"
+    >
+      Documentaries
+    </p>
+    <div
+      class="card__Entities-sc-1tn30zk-5 bJGxpN"
+    >
+      <div
+        class="card__Item-sc-1tn30zk-8 hllYeq"
+        data-testid="tiger-king-card-item"
+      >
+        <img
+          class="card__Image-sc-1tn30zk-7 jVaXVh"
+          src="/images/series/documentaries/tiger-king/small.jpg"
+        />
+        <div
+          class="card__Meta-sc-1tn30zk-6 hSiHRx"
+        >
+          <p
+            class="card__Subtitle-sc-1tn30zk-3 hRkAZG"
+          >
+            Tiger King
+          </p>
+          <p
+            class="card__Text-sc-1tn30zk-4 fwLGcr"
+          >
+            An exploration of big cat breeding and its bizarre underworld, populated by eccentric characters.
+          </p>
+        </div>
+      </div>
+    </div>
+  </div>
+  <div
+    class="card__Container-sc-1tn30zk-1 qpcHX"
+  >
+    <p
+      class="card__Title-sc-1tn30zk-0 iPHpya"
+    >
+      Comedies
+    </p>
+    <div
+      class="card__Entities-sc-1tn30zk-5 bJGxpN"
+    >
+      <div
+        class="card__Item-sc-1tn30zk-8 hllYeq"
+        data-testid="the-office-card-item"
+      >
+        <img
+          class="card__Image-sc-1tn30zk-7 jVaXVh"
+          src="/images/series/comedies/the-office/small.jpg"
+        />
+        <div
+          class="card__Meta-sc-1tn30zk-6 hSiHRx"
+        >
+          <p
+            class="card__Subtitle-sc-1tn30zk-3 hRkAZG"
+          >
+            The Office
+          </p>
+          <p
+            class="card__Text-sc-1tn30zk-4 fwLGcr"
+          >
+            A motley group of office workers go through hilarious misadventures at the Scranton, Pennsylvania, branch of the Dunder Mifflin Paper Company.
+          </p>
+        </div>
+      </div>
+    </div>
+    <div
+      class="card__Feature-sc-1tn30zk-10 haALGB"
+      src="/images/series/comedies/the-office/large.jpg"
+    >
+      <div
+        class="card__Content-sc-1tn30zk-13 diFTUM"
+      >
+        <p
+          class="card__Title-sc-1tn30zk-0 card__FeatureTitle-sc-1tn30zk-11 iPHpya gfGINs"
+        >
+          The Office
+        </p>
+        <p
+          class="card__FeatureText-sc-1tn30zk-9 gwQeKE"
+        >
+          A motley group of office workers go through hilarious misadventures at the Scranton, Pennsylvania, branch of the Dunder Mifflin Paper Company.
+        </p>
+        <button
+          class="card__FeatureClose-sc-1tn30zk-12 bqXOHA"
+        >
+          <img
+            alt="Close"
+            src="/images/icons/close.png"
+          />
+        </button>
+        <div
+          class="card__Group-sc-1tn30zk-2 quZvM"
+        >
+          <div
+            class="card__Maturity-sc-1tn30zk-14 jzqIFl"
+          >
+            PG
+             
+          </div>
+          <p
+            class="card__FeatureText-sc-1tn30zk-9 kEWXEW"
+            font-weight="bold"
+          >
+            Comedies
+          </p>
+        </div>
+        <div
+          class="player__Container-sc-1aq7af5-0"
+        >
+          <button
+            class="player__Button-sc-1aq7af5-4 iHPtbY"
+          >
+            Play
+          </button>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`<Card /> With one feature open, clicking another will open that feature and close the current one 1`] = `
+<div
+  class="card__Group-sc-1tn30zk-2 ksTbFs"
+>
+  <div
+    class="card__Container-sc-1tn30zk-1 qpcHX"
+  >
+    <p
+      class="card__Title-sc-1tn30zk-0 iPHpya"
+    >
+      Documentaries
+    </p>
+    <div
+      class="card__Entities-sc-1tn30zk-5 bJGxpN"
+    >
+      <div
+        class="card__Item-sc-1tn30zk-8 hllYeq"
+        data-testid="tiger-king-card-item"
+      >
+        <img
+          class="card__Image-sc-1tn30zk-7 jVaXVh"
+          src="/images/series/documentaries/tiger-king/small.jpg"
+        />
+        <div
+          class="card__Meta-sc-1tn30zk-6 hSiHRx"
+        >
+          <p
+            class="card__Subtitle-sc-1tn30zk-3 hRkAZG"
+          >
+            Tiger King
+          </p>
+          <p
+            class="card__Text-sc-1tn30zk-4 fwLGcr"
+          >
+            An exploration of big cat breeding and its bizarre underworld, populated by eccentric characters.
+          </p>
+        </div>
+      </div>
+    </div>
+  </div>
+  <div
+    class="card__Container-sc-1tn30zk-1 qpcHX"
+  >
+    <p
+      class="card__Title-sc-1tn30zk-0 iPHpya"
+    >
+      Comedies
+    </p>
+    <div
+      class="card__Entities-sc-1tn30zk-5 bJGxpN"
+    >
+      <div
+        class="card__Item-sc-1tn30zk-8 hllYeq"
+        data-testid="the-office-card-item"
+      >
+        <img
+          class="card__Image-sc-1tn30zk-7 jVaXVh"
+          src="/images/series/comedies/the-office/small.jpg"
+        />
+        <div
+          class="card__Meta-sc-1tn30zk-6 hSiHRx"
+        >
+          <p
+            class="card__Subtitle-sc-1tn30zk-3 hRkAZG"
+          >
+            The Office
+          </p>
+          <p
+            class="card__Text-sc-1tn30zk-4 fwLGcr"
+          >
+            A motley group of office workers go through hilarious misadventures at the Scranton, Pennsylvania, branch of the Dunder Mifflin Paper Company.
+          </p>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`<Card /> With one feature open, clicking another will open that feature and close the current one 2`] = `
+<div
+  class="card__Group-sc-1tn30zk-2 ksTbFs"
+>
+  <div
+    class="card__Container-sc-1tn30zk-1 qpcHX"
+  >
+    <p
+      class="card__Title-sc-1tn30zk-0 iPHpya"
+    >
+      Documentaries
+    </p>
+    <div
+      class="card__Entities-sc-1tn30zk-5 bJGxpN"
+    >
+      <div
+        class="card__Item-sc-1tn30zk-8 hllYeq"
+        data-testid="tiger-king-card-item"
+      >
+        <img
+          class="card__Image-sc-1tn30zk-7 jVaXVh"
+          src="/images/series/documentaries/tiger-king/small.jpg"
+        />
+        <div
+          class="card__Meta-sc-1tn30zk-6 hSiHRx"
+        >
+          <p
+            class="card__Subtitle-sc-1tn30zk-3 hRkAZG"
+          >
+            Tiger King
+          </p>
+          <p
+            class="card__Text-sc-1tn30zk-4 fwLGcr"
+          >
+            An exploration of big cat breeding and its bizarre underworld, populated by eccentric characters.
+          </p>
+        </div>
+      </div>
+    </div>
+    <div
+      class="card__Feature-sc-1tn30zk-10 lfPcaO"
+      src="/images/series/documentaries/tiger-king/large.jpg"
+    >
+      <div
+        class="card__Content-sc-1tn30zk-13 diFTUM"
+      >
+        <p
+          class="card__Title-sc-1tn30zk-0 card__FeatureTitle-sc-1tn30zk-11 iPHpya gfGINs"
+        >
+          Tiger King
+        </p>
+        <p
+          class="card__FeatureText-sc-1tn30zk-9 gwQeKE"
+        >
+          An exploration of big cat breeding and its bizarre underworld, populated by eccentric characters.
+        </p>
+        <button
+          class="card__FeatureClose-sc-1tn30zk-12 bqXOHA"
+        >
+          <img
+            alt="Close"
+            src="/images/icons/close.png"
+          />
+        </button>
+        <div
+          class="card__Group-sc-1tn30zk-2 quZvM"
+        >
+          <div
+            class="card__Maturity-sc-1tn30zk-14 evEtKC"
+          >
+            18
+             
+          </div>
+          <p
+            class="card__FeatureText-sc-1tn30zk-9 kEWXEW"
+            font-weight="bold"
+          >
+            Documentaries
+          </p>
+        </div>
+        <div
+          class="player__Container-sc-1aq7af5-0"
+        >
+          <button
+            class="player__Button-sc-1aq7af5-4 iHPtbY"
+          >
+            Play
+          </button>
+        </div>
+      </div>
+    </div>
+  </div>
+  <div
+    class="card__Container-sc-1tn30zk-1 qpcHX"
+  >
+    <p
+      class="card__Title-sc-1tn30zk-0 iPHpya"
+    >
+      Comedies
+    </p>
+    <div
+      class="card__Entities-sc-1tn30zk-5 bJGxpN"
+    >
+      <div
+        class="card__Item-sc-1tn30zk-8 hllYeq"
+        data-testid="the-office-card-item"
+      >
+        <img
+          class="card__Image-sc-1tn30zk-7 jVaXVh"
+          src="/images/series/comedies/the-office/small.jpg"
+        />
+        <div
+          class="card__Meta-sc-1tn30zk-6 hSiHRx"
+        >
+          <p
+            class="card__Subtitle-sc-1tn30zk-3 hRkAZG"
+          >
+            The Office
+          </p>
+          <p
+            class="card__Text-sc-1tn30zk-4 fwLGcr"
+          >
+            A motley group of office workers go through hilarious misadventures at the Scranton, Pennsylvania, branch of the Dunder Mifflin Paper Company.
+          </p>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`<Card /> With one feature open, clicking another will open that feature and close the current one 3`] = `
+<div
+  class="card__Group-sc-1tn30zk-2 ksTbFs"
+>
+  <div
+    class="card__Container-sc-1tn30zk-1 qpcHX"
+  >
+    <p
+      class="card__Title-sc-1tn30zk-0 iPHpya"
+    >
+      Documentaries
+    </p>
+    <div
+      class="card__Entities-sc-1tn30zk-5 bJGxpN"
+    >
+      <div
+        class="card__Item-sc-1tn30zk-8 hllYeq"
+        data-testid="tiger-king-card-item"
+      >
+        <img
+          class="card__Image-sc-1tn30zk-7 jVaXVh"
+          src="/images/series/documentaries/tiger-king/small.jpg"
+        />
+        <div
+          class="card__Meta-sc-1tn30zk-6 hSiHRx"
+        >
+          <p
+            class="card__Subtitle-sc-1tn30zk-3 hRkAZG"
+          >
+            Tiger King
+          </p>
+          <p
+            class="card__Text-sc-1tn30zk-4 fwLGcr"
+          >
+            An exploration of big cat breeding and its bizarre underworld, populated by eccentric characters.
+          </p>
+        </div>
+      </div>
+    </div>
+  </div>
+  <div
+    class="card__Container-sc-1tn30zk-1 qpcHX"
+  >
+    <p
+      class="card__Title-sc-1tn30zk-0 iPHpya"
+    >
+      Comedies
+    </p>
+    <div
+      class="card__Entities-sc-1tn30zk-5 bJGxpN"
+    >
+      <div
+        class="card__Item-sc-1tn30zk-8 hllYeq"
+        data-testid="the-office-card-item"
+      >
+        <img
+          class="card__Image-sc-1tn30zk-7 jVaXVh"
+          src="/images/series/comedies/the-office/small.jpg"
+        />
+        <div
+          class="card__Meta-sc-1tn30zk-6 hSiHRx"
+        >
+          <p
+            class="card__Subtitle-sc-1tn30zk-3 hRkAZG"
+          >
+            The Office
+          </p>
+          <p
+            class="card__Text-sc-1tn30zk-4 fwLGcr"
+          >
+            A motley group of office workers go through hilarious misadventures at the Scranton, Pennsylvania, branch of the Dunder Mifflin Paper Company.
+          </p>
+        </div>
+      </div>
+    </div>
+    <div
+      class="card__Feature-sc-1tn30zk-10 haALGB"
+      src="/images/series/comedies/the-office/large.jpg"
+    >
+      <div
+        class="card__Content-sc-1tn30zk-13 diFTUM"
+      >
+        <p
+          class="card__Title-sc-1tn30zk-0 card__FeatureTitle-sc-1tn30zk-11 iPHpya gfGINs"
+        >
+          The Office
+        </p>
+        <p
+          class="card__FeatureText-sc-1tn30zk-9 gwQeKE"
+        >
+          A motley group of office workers go through hilarious misadventures at the Scranton, Pennsylvania, branch of the Dunder Mifflin Paper Company.
+        </p>
+        <button
+          class="card__FeatureClose-sc-1tn30zk-12 bqXOHA"
+        >
+          <img
+            alt="Close"
+            src="/images/icons/close.png"
+          />
+        </button>
+        <div
+          class="card__Group-sc-1tn30zk-2 quZvM"
+        >
+          <div
+            class="card__Maturity-sc-1tn30zk-14 jzqIFl"
+          >
+            PG
+             
+          </div>
+          <p
+            class="card__FeatureText-sc-1tn30zk-9 kEWXEW"
+            font-weight="bold"
+          >
+            Comedies
+          </p>
+        </div>
+        <div
+          class="player__Container-sc-1aq7af5-0"
+        >
+          <button
+            class="player__Button-sc-1aq7af5-4 iHPtbY"
+          >
+            Play
+          </button>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`<Card /> renders the <Card /> with populated data 1`] = `
+<div
+  class="card__Group-sc-1tn30zk-2 ksTbFs"
+>
+  <div
+    class="card__Container-sc-1tn30zk-1 qpcHX"
+  >
+    <p
+      class="card__Title-sc-1tn30zk-0 iPHpya"
+    >
+      Documentaries
+    </p>
+    <div
+      class="card__Entities-sc-1tn30zk-5 bJGxpN"
+    >
+      <div
+        class="card__Item-sc-1tn30zk-8 hllYeq"
+        data-testid="tiger-king-card-item"
+      >
+        <img
+          class="card__Image-sc-1tn30zk-7 jVaXVh"
+          src="/images/series/documentaries/tiger-king/small.jpg"
+        />
+        <div
+          class="card__Meta-sc-1tn30zk-6 hSiHRx"
+        >
+          <p
+            class="card__Subtitle-sc-1tn30zk-3 hRkAZG"
+          >
+            Tiger King
+          </p>
+          <p
+            class="card__Text-sc-1tn30zk-4 fwLGcr"
+          >
+            An exploration of big cat breeding and its bizarre underworld, populated by eccentric characters.
+          </p>
+        </div>
+      </div>
+    </div>
+  </div>
+  <div
+    class="card__Container-sc-1tn30zk-1 qpcHX"
+  >
+    <p
+      class="card__Title-sc-1tn30zk-0 iPHpya"
+    >
+      Comedies
+    </p>
+    <div
+      class="card__Entities-sc-1tn30zk-5 bJGxpN"
+    >
+      <div
+        class="card__Item-sc-1tn30zk-8 hllYeq"
+        data-testid="the-office-card-item"
+      >
+        <img
+          class="card__Image-sc-1tn30zk-7 jVaXVh"
+          src="/images/series/comedies/the-office/small.jpg"
+        />
+        <div
+          class="card__Meta-sc-1tn30zk-6 hSiHRx"
+        >
+          <p
+            class="card__Subtitle-sc-1tn30zk-3 hRkAZG"
+          >
+            The Office
+          </p>
+          <p
+            class="card__Text-sc-1tn30zk-4 fwLGcr"
+          >
+            A motley group of office workers go through hilarious misadventures at the Scranton, Pennsylvania, branch of the Dunder Mifflin Paper Company.
+          </p>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+`;
