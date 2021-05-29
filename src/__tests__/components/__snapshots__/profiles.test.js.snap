@@ -1,0 +1,61 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<Profiles /> renders the with populated data 1`] = `
+<div
+  class="sc-bdfBwQ jrwAQZ"
+>
+  <h1
+    class="sc-gsTCUz busbyR"
+  >
+    Who's watching?
+  </h1>
+  <ul
+    class="sc-dlfnbm gSzkam"
+  >
+    <li
+      class="sc-jSgupP gyekYl"
+    >
+      <img
+        class="sc-eCssSg uLbMk"
+        data-testid="profiles-picture"
+        src="/images/users//images/users/1.png.png"
+      />
+      <p
+        class="sc-hKgILt hEbttM"
+      >
+        Steven Webster
+      </p>
+    </li>
+  </ul>
+</div>
+`;
+
+exports[`<Profiles /> renders the with populated data but misc profile image 1`] = `
+<div
+  class="sc-bdfBwQ jrwAQZ"
+>
+  <h1
+    class="sc-gsTCUz busbyR"
+  >
+    Who's watching?
+  </h1>
+  <ul
+    class="sc-dlfnbm gSzkam"
+  >
+    <li
+      class="sc-jSgupP gyekYl"
+    >
+      <img
+        class="sc-eCssSg uLbMk"
+        data-testid="profiles-picture-misc"
+        src="/images/users//images/misc/loading.gif.png"
+      />
+      <p
+        class="sc-hKgILt hEbttM"
+      >
+        Steven Webster
+      </p>
+    </li>
+  </ul>
+</div>
+`;
