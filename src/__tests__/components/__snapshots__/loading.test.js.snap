@@ -2,11 +2,11 @@
 
 exports[`<Loading /> renders the <Loading /> component 1`] = `
 <div
-  class="loading__Spinner-sc-1j6l9vs-0 clBWRL"
+  class="loading__Spinner-sc-1j6l9vs-0 bPyvMz"
   data-testid="loading"
 >
   <img
-    class="loading__Picture-sc-1j6l9vs-1 coDgoh"
+    class="loading__Picture-sc-1j6l9vs-1 IXUqF"
     data-testid="loading-picture"
     src="/images/users//images/users/1.png.png"
   />

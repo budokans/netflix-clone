@@ -2,37 +2,37 @@
 
 exports[`<Card /> Clicking <Card /> and opens the card feature and clicking close button closes it 1`] = `
 <div
-  class="card__Group-sc-1tn30zk-2 ksTbFs"
+  class="card__Group-sc-1tn30zk-2 hbjgLk"
 >
   <div
-    class="card__Container-sc-1tn30zk-1 qpcHX"
+    class="card__Container-sc-1tn30zk-1 Dklfr"
   >
     <p
-      class="card__Title-sc-1tn30zk-0 iPHpya"
+      class="card__Title-sc-1tn30zk-0 hyRsiq"
     >
       Documentaries
     </p>
     <div
-      class="card__Entities-sc-1tn30zk-5 bJGxpN"
+      class="card__Entities-sc-1tn30zk-5 kWOGzp"
     >
       <div
-        class="card__Item-sc-1tn30zk-8 hllYeq"
+        class="card__Item-sc-1tn30zk-8 jaejCa"
         data-testid="tiger-king-card-item"
       >
         <img
-          class="card__Image-sc-1tn30zk-7 jVaXVh"
+          class="card__Image-sc-1tn30zk-7 gCwlmd"
           src="/images/series/documentaries/tiger-king/small.jpg"
         />
         <div
-          class="card__Meta-sc-1tn30zk-6 hSiHRx"
+          class="card__Meta-sc-1tn30zk-6 hqEziZ"
         >
           <p
-            class="card__Subtitle-sc-1tn30zk-3 hRkAZG"
+            class="card__Subtitle-sc-1tn30zk-3 dupffi"
           >
             Tiger King
           </p>
           <p
-            class="card__Text-sc-1tn30zk-4 fwLGcr"
+            class="card__Text-sc-1tn30zk-4 ZQkhT"
           >
             An exploration of big cat breeding and its bizarre underworld, populated by eccentric characters.
           </p>
@@ -41,34 +41,34 @@ exports[`<Card /> Clicking <Card /> and opens the card feature and clicking clos
     </div>
   </div>
   <div
-    class="card__Container-sc-1tn30zk-1 qpcHX"
+    class="card__Container-sc-1tn30zk-1 Dklfr"
   >
     <p
-      class="card__Title-sc-1tn30zk-0 iPHpya"
+      class="card__Title-sc-1tn30zk-0 hyRsiq"
     >
       Comedies
     </p>
     <div
-      class="card__Entities-sc-1tn30zk-5 bJGxpN"
+      class="card__Entities-sc-1tn30zk-5 kWOGzp"
     >
       <div
-        class="card__Item-sc-1tn30zk-8 hllYeq"
+        class="card__Item-sc-1tn30zk-8 jaejCa"
         data-testid="the-office-card-item"
       >
         <img
-          class="card__Image-sc-1tn30zk-7 jVaXVh"
+          class="card__Image-sc-1tn30zk-7 gCwlmd"
           src="/images/series/comedies/the-office/small.jpg"
         />
         <div
-          class="card__Meta-sc-1tn30zk-6 hSiHRx"
+          class="card__Meta-sc-1tn30zk-6 hqEziZ"
         >
           <p
-            class="card__Subtitle-sc-1tn30zk-3 hRkAZG"
+            class="card__Subtitle-sc-1tn30zk-3 dupffi"
           >
             The Office
           </p>
           <p
-            class="card__Text-sc-1tn30zk-4 fwLGcr"
+            class="card__Text-sc-1tn30zk-4 ZQkhT"
           >
             A motley group of office workers go through hilarious misadventures at the Scranton, Pennsylvania, branch of the Dunder Mifflin Paper Company.
           </p>
@@ -81,37 +81,37 @@ exports[`<Card /> Clicking <Card /> and opens the card feature and clicking clos
 
 exports[`<Card /> Clicking <Card /> and opens the card feature and clicking close button closes it 2`] = `
 <div
-  class="card__Group-sc-1tn30zk-2 ksTbFs"
+  class="card__Group-sc-1tn30zk-2 hbjgLk"
 >
   <div
-    class="card__Container-sc-1tn30zk-1 qpcHX"
+    class="card__Container-sc-1tn30zk-1 Dklfr"
   >
     <p
-      class="card__Title-sc-1tn30zk-0 iPHpya"
+      class="card__Title-sc-1tn30zk-0 hyRsiq"
     >
       Documentaries
     </p>
     <div
-      class="card__Entities-sc-1tn30zk-5 bJGxpN"
+      class="card__Entities-sc-1tn30zk-5 kWOGzp"
     >
       <div
-        class="card__Item-sc-1tn30zk-8 hllYeq"
+        class="card__Item-sc-1tn30zk-8 jaejCa"
         data-testid="tiger-king-card-item"
       >
         <img
-          class="card__Image-sc-1tn30zk-7 jVaXVh"
+          class="card__Image-sc-1tn30zk-7 gCwlmd"
           src="/images/series/documentaries/tiger-king/small.jpg"
         />
         <div
-          class="card__Meta-sc-1tn30zk-6 hSiHRx"
+          class="card__Meta-sc-1tn30zk-6 hqEziZ"
         >
           <p
-            class="card__Subtitle-sc-1tn30zk-3 hRkAZG"
+            class="card__Subtitle-sc-1tn30zk-3 dupffi"
           >
             Tiger King
           </p>
           <p
-            class="card__Text-sc-1tn30zk-4 fwLGcr"
+            class="card__Text-sc-1tn30zk-4 ZQkhT"
           >
             An exploration of big cat breeding and its bizarre underworld, populated by eccentric characters.
           </p>
@@ -119,24 +119,24 @@ exports[`<Card /> Clicking <Card /> and opens the card feature and clicking clos
       </div>
     </div>
     <div
-      class="card__Feature-sc-1tn30zk-10 lfPcaO"
+      class="card__Feature-sc-1tn30zk-10 fppUju"
       src="/images/series/documentaries/tiger-king/large.jpg"
     >
       <div
-        class="card__Content-sc-1tn30zk-13 diFTUM"
+        class="card__Content-sc-1tn30zk-13 hQQPtI"
       >
         <p
-          class="card__Title-sc-1tn30zk-0 card__FeatureTitle-sc-1tn30zk-11 iPHpya gfGINs"
+          class="card__Title-sc-1tn30zk-0 card__FeatureTitle-sc-1tn30zk-11 hyRsiq dDyuCU"
         >
           Tiger King
         </p>
         <p
-          class="card__FeatureText-sc-1tn30zk-9 gwQeKE"
+          class="card__FeatureText-sc-1tn30zk-9 gNhdxs"
         >
           An exploration of big cat breeding and its bizarre underworld, populated by eccentric characters.
         </p>
         <button
-          class="card__FeatureClose-sc-1tn30zk-12 bqXOHA"
+          class="card__FeatureClose-sc-1tn30zk-12 ehCVuo"
         >
           <img
             alt="Close"
@@ -144,16 +144,16 @@ exports[`<Card /> Clicking <Card /> and opens the card feature and clicking clos
           />
         </button>
         <div
-          class="card__Group-sc-1tn30zk-2 quZvM"
+          class="card__Group-sc-1tn30zk-2 kPAngs"
         >
           <div
-            class="card__Maturity-sc-1tn30zk-14 evEtKC"
+            class="card__Maturity-sc-1tn30zk-14 jMlCpq"
           >
             18
              
           </div>
           <p
-            class="card__FeatureText-sc-1tn30zk-9 kEWXEW"
+            class="card__FeatureText-sc-1tn30zk-9 dXMjEW"
             font-weight="bold"
           >
             Documentaries
@@ -163,7 +163,7 @@ exports[`<Card /> Clicking <Card /> and opens the card feature and clicking clos
           class="player__Container-sc-1aq7af5-0"
         >
           <button
-            class="player__Button-sc-1aq7af5-4 iHPtbY"
+            class="player__Button-sc-1aq7af5-4 hptpaM"
           >
             Play
           </button>
@@ -172,34 +172,34 @@ exports[`<Card /> Clicking <Card /> and opens the card feature and clicking clos
     </div>
   </div>
   <div
-    class="card__Container-sc-1tn30zk-1 qpcHX"
+    class="card__Container-sc-1tn30zk-1 Dklfr"
   >
     <p
-      class="card__Title-sc-1tn30zk-0 iPHpya"
+      class="card__Title-sc-1tn30zk-0 hyRsiq"
     >
       Comedies
     </p>
     <div
-      class="card__Entities-sc-1tn30zk-5 bJGxpN"
+      class="card__Entities-sc-1tn30zk-5 kWOGzp"
     >
       <div
-        class="card__Item-sc-1tn30zk-8 hllYeq"
+        class="card__Item-sc-1tn30zk-8 jaejCa"
         data-testid="the-office-card-item"
       >
         <img
-          class="card__Image-sc-1tn30zk-7 jVaXVh"
+          class="card__Image-sc-1tn30zk-7 gCwlmd"
           src="/images/series/comedies/the-office/small.jpg"
         />
         <div
-          class="card__Meta-sc-1tn30zk-6 hSiHRx"
+          class="card__Meta-sc-1tn30zk-6 hqEziZ"
         >
           <p
-            class="card__Subtitle-sc-1tn30zk-3 hRkAZG"
+            class="card__Subtitle-sc-1tn30zk-3 dupffi"
           >
             The Office
           </p>
           <p
-            class="card__Text-sc-1tn30zk-4 fwLGcr"
+            class="card__Text-sc-1tn30zk-4 ZQkhT"
           >
             A motley group of office workers go through hilarious misadventures at the Scranton, Pennsylvania, branch of the Dunder Mifflin Paper Company.
           </p>
@@ -212,37 +212,37 @@ exports[`<Card /> Clicking <Card /> and opens the card feature and clicking clos
 
 exports[`<Card /> Clicking <Card /> and opens the card feature and clicking close button closes it 3`] = `
 <div
-  class="card__Group-sc-1tn30zk-2 ksTbFs"
+  class="card__Group-sc-1tn30zk-2 hbjgLk"
 >
   <div
-    class="card__Container-sc-1tn30zk-1 qpcHX"
+    class="card__Container-sc-1tn30zk-1 Dklfr"
   >
     <p
-      class="card__Title-sc-1tn30zk-0 iPHpya"
+      class="card__Title-sc-1tn30zk-0 hyRsiq"
     >
       Documentaries
     </p>
     <div
-      class="card__Entities-sc-1tn30zk-5 bJGxpN"
+      class="card__Entities-sc-1tn30zk-5 kWOGzp"
     >
       <div
-        class="card__Item-sc-1tn30zk-8 hllYeq"
+        class="card__Item-sc-1tn30zk-8 jaejCa"
         data-testid="tiger-king-card-item"
       >
         <img
-          class="card__Image-sc-1tn30zk-7 jVaXVh"
+          class="card__Image-sc-1tn30zk-7 gCwlmd"
           src="/images/series/documentaries/tiger-king/small.jpg"
         />
         <div
-          class="card__Meta-sc-1tn30zk-6 hSiHRx"
+          class="card__Meta-sc-1tn30zk-6 hqEziZ"
         >
           <p
-            class="card__Subtitle-sc-1tn30zk-3 hRkAZG"
+            class="card__Subtitle-sc-1tn30zk-3 dupffi"
           >
             Tiger King
           </p>
           <p
-            class="card__Text-sc-1tn30zk-4 fwLGcr"
+            class="card__Text-sc-1tn30zk-4 ZQkhT"
           >
             An exploration of big cat breeding and its bizarre underworld, populated by eccentric characters.
           </p>
@@ -251,34 +251,34 @@ exports[`<Card /> Clicking <Card /> and opens the card feature and clicking clos
     </div>
   </div>
   <div
-    class="card__Container-sc-1tn30zk-1 qpcHX"
+    class="card__Container-sc-1tn30zk-1 Dklfr"
   >
     <p
-      class="card__Title-sc-1tn30zk-0 iPHpya"
+      class="card__Title-sc-1tn30zk-0 hyRsiq"
     >
       Comedies
     </p>
     <div
-      class="card__Entities-sc-1tn30zk-5 bJGxpN"
+      class="card__Entities-sc-1tn30zk-5 kWOGzp"
     >
       <div
-        class="card__Item-sc-1tn30zk-8 hllYeq"
+        class="card__Item-sc-1tn30zk-8 jaejCa"
         data-testid="the-office-card-item"
       >
         <img
-          class="card__Image-sc-1tn30zk-7 jVaXVh"
+          class="card__Image-sc-1tn30zk-7 gCwlmd"
           src="/images/series/comedies/the-office/small.jpg"
         />
         <div
-          class="card__Meta-sc-1tn30zk-6 hSiHRx"
+          class="card__Meta-sc-1tn30zk-6 hqEziZ"
         >
           <p
-            class="card__Subtitle-sc-1tn30zk-3 hRkAZG"
+            class="card__Subtitle-sc-1tn30zk-3 dupffi"
           >
             The Office
           </p>
           <p
-            class="card__Text-sc-1tn30zk-4 fwLGcr"
+            class="card__Text-sc-1tn30zk-4 ZQkhT"
           >
             A motley group of office workers go through hilarious misadventures at the Scranton, Pennsylvania, branch of the Dunder Mifflin Paper Company.
           </p>
@@ -291,37 +291,37 @@ exports[`<Card /> Clicking <Card /> and opens the card feature and clicking clos
 
 exports[`<Card /> Clicking <Card /> and opens the card feature and clicking close button closes it 4`] = `
 <div
-  class="card__Group-sc-1tn30zk-2 ksTbFs"
+  class="card__Group-sc-1tn30zk-2 hbjgLk"
 >
   <div
-    class="card__Container-sc-1tn30zk-1 qpcHX"
+    class="card__Container-sc-1tn30zk-1 Dklfr"
   >
     <p
-      class="card__Title-sc-1tn30zk-0 iPHpya"
+      class="card__Title-sc-1tn30zk-0 hyRsiq"
     >
       Documentaries
     </p>
     <div
-      class="card__Entities-sc-1tn30zk-5 bJGxpN"
+      class="card__Entities-sc-1tn30zk-5 kWOGzp"
     >
       <div
-        class="card__Item-sc-1tn30zk-8 hllYeq"
+        class="card__Item-sc-1tn30zk-8 jaejCa"
         data-testid="tiger-king-card-item"
       >
         <img
-          class="card__Image-sc-1tn30zk-7 jVaXVh"
+          class="card__Image-sc-1tn30zk-7 gCwlmd"
           src="/images/series/documentaries/tiger-king/small.jpg"
         />
         <div
-          class="card__Meta-sc-1tn30zk-6 hSiHRx"
+          class="card__Meta-sc-1tn30zk-6 hqEziZ"
         >
           <p
-            class="card__Subtitle-sc-1tn30zk-3 hRkAZG"
+            class="card__Subtitle-sc-1tn30zk-3 dupffi"
           >
             Tiger King
           </p>
           <p
-            class="card__Text-sc-1tn30zk-4 fwLGcr"
+            class="card__Text-sc-1tn30zk-4 ZQkhT"
           >
             An exploration of big cat breeding and its bizarre underworld, populated by eccentric characters.
           </p>
@@ -330,34 +330,34 @@ exports[`<Card /> Clicking <Card /> and opens the card feature and clicking clos
     </div>
   </div>
   <div
-    class="card__Container-sc-1tn30zk-1 qpcHX"
+    class="card__Container-sc-1tn30zk-1 Dklfr"
   >
     <p
-      class="card__Title-sc-1tn30zk-0 iPHpya"
+      class="card__Title-sc-1tn30zk-0 hyRsiq"
     >
       Comedies
     </p>
     <div
-      class="card__Entities-sc-1tn30zk-5 bJGxpN"
+      class="card__Entities-sc-1tn30zk-5 kWOGzp"
     >
       <div
-        class="card__Item-sc-1tn30zk-8 hllYeq"
+        class="card__Item-sc-1tn30zk-8 jaejCa"
         data-testid="the-office-card-item"
       >
         <img
-          class="card__Image-sc-1tn30zk-7 jVaXVh"
+          class="card__Image-sc-1tn30zk-7 gCwlmd"
           src="/images/series/comedies/the-office/small.jpg"
         />
         <div
-          class="card__Meta-sc-1tn30zk-6 hSiHRx"
+          class="card__Meta-sc-1tn30zk-6 hqEziZ"
         >
           <p
-            class="card__Subtitle-sc-1tn30zk-3 hRkAZG"
+            class="card__Subtitle-sc-1tn30zk-3 dupffi"
           >
             The Office
           </p>
           <p
-            class="card__Text-sc-1tn30zk-4 fwLGcr"
+            class="card__Text-sc-1tn30zk-4 ZQkhT"
           >
             A motley group of office workers go through hilarious misadventures at the Scranton, Pennsylvania, branch of the Dunder Mifflin Paper Company.
           </p>
@@ -365,24 +365,24 @@ exports[`<Card /> Clicking <Card /> and opens the card feature and clicking clos
       </div>
     </div>
     <div
-      class="card__Feature-sc-1tn30zk-10 haALGB"
+      class="card__Feature-sc-1tn30zk-10 dBBjXN"
       src="/images/series/comedies/the-office/large.jpg"
     >
       <div
-        class="card__Content-sc-1tn30zk-13 diFTUM"
+        class="card__Content-sc-1tn30zk-13 hQQPtI"
       >
         <p
-          class="card__Title-sc-1tn30zk-0 card__FeatureTitle-sc-1tn30zk-11 iPHpya gfGINs"
+          class="card__Title-sc-1tn30zk-0 card__FeatureTitle-sc-1tn30zk-11 hyRsiq dDyuCU"
         >
           The Office
         </p>
         <p
-          class="card__FeatureText-sc-1tn30zk-9 gwQeKE"
+          class="card__FeatureText-sc-1tn30zk-9 gNhdxs"
         >
           A motley group of office workers go through hilarious misadventures at the Scranton, Pennsylvania, branch of the Dunder Mifflin Paper Company.
         </p>
         <button
-          class="card__FeatureClose-sc-1tn30zk-12 bqXOHA"
+          class="card__FeatureClose-sc-1tn30zk-12 ehCVuo"
         >
           <img
             alt="Close"
@@ -390,16 +390,16 @@ exports[`<Card /> Clicking <Card /> and opens the card feature and clicking clos
           />
         </button>
         <div
-          class="card__Group-sc-1tn30zk-2 quZvM"
+          class="card__Group-sc-1tn30zk-2 kPAngs"
         >
           <div
-            class="card__Maturity-sc-1tn30zk-14 jzqIFl"
+            class="card__Maturity-sc-1tn30zk-14 dAChLd"
           >
             PG
              
           </div>
           <p
-            class="card__FeatureText-sc-1tn30zk-9 kEWXEW"
+            class="card__FeatureText-sc-1tn30zk-9 dXMjEW"
             font-weight="bold"
           >
             Comedies
@@ -409,7 +409,7 @@ exports[`<Card /> Clicking <Card /> and opens the card feature and clicking clos
           class="player__Container-sc-1aq7af5-0"
         >
           <button
-            class="player__Button-sc-1aq7af5-4 iHPtbY"
+            class="player__Button-sc-1aq7af5-4 hptpaM"
           >
             Play
           </button>
@@ -422,37 +422,37 @@ exports[`<Card /> Clicking <Card /> and opens the card feature and clicking clos
 
 exports[`<Card /> With one feature open, clicking another will open that feature and close the current one 1`] = `
 <div
-  class="card__Group-sc-1tn30zk-2 ksTbFs"
+  class="card__Group-sc-1tn30zk-2 hbjgLk"
 >
   <div
-    class="card__Container-sc-1tn30zk-1 qpcHX"
+    class="card__Container-sc-1tn30zk-1 Dklfr"
   >
     <p
-      class="card__Title-sc-1tn30zk-0 iPHpya"
+      class="card__Title-sc-1tn30zk-0 hyRsiq"
     >
       Documentaries
     </p>
     <div
-      class="card__Entities-sc-1tn30zk-5 bJGxpN"
+      class="card__Entities-sc-1tn30zk-5 kWOGzp"
     >
       <div
-        class="card__Item-sc-1tn30zk-8 hllYeq"
+        class="card__Item-sc-1tn30zk-8 jaejCa"
         data-testid="tiger-king-card-item"
       >
         <img
-          class="card__Image-sc-1tn30zk-7 jVaXVh"
+          class="card__Image-sc-1tn30zk-7 gCwlmd"
           src="/images/series/documentaries/tiger-king/small.jpg"
         />
         <div
-          class="card__Meta-sc-1tn30zk-6 hSiHRx"
+          class="card__Meta-sc-1tn30zk-6 hqEziZ"
         >
           <p
-            class="card__Subtitle-sc-1tn30zk-3 hRkAZG"
+            class="card__Subtitle-sc-1tn30zk-3 dupffi"
           >
             Tiger King
           </p>
           <p
-            class="card__Text-sc-1tn30zk-4 fwLGcr"
+            class="card__Text-sc-1tn30zk-4 ZQkhT"
           >
             An exploration of big cat breeding and its bizarre underworld, populated by eccentric characters.
           </p>
@@ -461,34 +461,34 @@ exports[`<Card /> With one feature open, clicking another will open that feature
     </div>
   </div>
   <div
-    class="card__Container-sc-1tn30zk-1 qpcHX"
+    class="card__Container-sc-1tn30zk-1 Dklfr"
   >
     <p
-      class="card__Title-sc-1tn30zk-0 iPHpya"
+      class="card__Title-sc-1tn30zk-0 hyRsiq"
     >
       Comedies
     </p>
     <div
-      class="card__Entities-sc-1tn30zk-5 bJGxpN"
+      class="card__Entities-sc-1tn30zk-5 kWOGzp"
     >
       <div
-        class="card__Item-sc-1tn30zk-8 hllYeq"
+        class="card__Item-sc-1tn30zk-8 jaejCa"
         data-testid="the-office-card-item"
       >
         <img
-          class="card__Image-sc-1tn30zk-7 jVaXVh"
+          class="card__Image-sc-1tn30zk-7 gCwlmd"
           src="/images/series/comedies/the-office/small.jpg"
         />
         <div
-          class="card__Meta-sc-1tn30zk-6 hSiHRx"
+          class="card__Meta-sc-1tn30zk-6 hqEziZ"
         >
           <p
-            class="card__Subtitle-sc-1tn30zk-3 hRkAZG"
+            class="card__Subtitle-sc-1tn30zk-3 dupffi"
           >
             The Office
           </p>
           <p
-            class="card__Text-sc-1tn30zk-4 fwLGcr"
+            class="card__Text-sc-1tn30zk-4 ZQkhT"
           >
             A motley group of office workers go through hilarious misadventures at the Scranton, Pennsylvania, branch of the Dunder Mifflin Paper Company.
           </p>
@@ -501,37 +501,37 @@ exports[`<Card /> With one feature open, clicking another will open that feature
 
 exports[`<Card /> With one feature open, clicking another will open that feature and close the current one 2`] = `
 <div
-  class="card__Group-sc-1tn30zk-2 ksTbFs"
+  class="card__Group-sc-1tn30zk-2 hbjgLk"
 >
   <div
-    class="card__Container-sc-1tn30zk-1 qpcHX"
+    class="card__Container-sc-1tn30zk-1 Dklfr"
   >
     <p
-      class="card__Title-sc-1tn30zk-0 iPHpya"
+      class="card__Title-sc-1tn30zk-0 hyRsiq"
     >
       Documentaries
     </p>
     <div
-      class="card__Entities-sc-1tn30zk-5 bJGxpN"
+      class="card__Entities-sc-1tn30zk-5 kWOGzp"
     >
       <div
-        class="card__Item-sc-1tn30zk-8 hllYeq"
+        class="card__Item-sc-1tn30zk-8 jaejCa"
         data-testid="tiger-king-card-item"
       >
         <img
-          class="card__Image-sc-1tn30zk-7 jVaXVh"
+          class="card__Image-sc-1tn30zk-7 gCwlmd"
           src="/images/series/documentaries/tiger-king/small.jpg"
         />
         <div
-          class="card__Meta-sc-1tn30zk-6 hSiHRx"
+          class="card__Meta-sc-1tn30zk-6 hqEziZ"
         >
           <p
-            class="card__Subtitle-sc-1tn30zk-3 hRkAZG"
+            class="card__Subtitle-sc-1tn30zk-3 dupffi"
           >
             Tiger King
           </p>
           <p
-            class="card__Text-sc-1tn30zk-4 fwLGcr"
+            class="card__Text-sc-1tn30zk-4 ZQkhT"
           >
             An exploration of big cat breeding and its bizarre underworld, populated by eccentric characters.
           </p>
@@ -539,24 +539,24 @@ exports[`<Card /> With one feature open, clicking another will open that feature
       </div>
     </div>
     <div
-      class="card__Feature-sc-1tn30zk-10 lfPcaO"
+      class="card__Feature-sc-1tn30zk-10 fppUju"
       src="/images/series/documentaries/tiger-king/large.jpg"
     >
       <div
-        class="card__Content-sc-1tn30zk-13 diFTUM"
+        class="card__Content-sc-1tn30zk-13 hQQPtI"
       >
         <p
-          class="card__Title-sc-1tn30zk-0 card__FeatureTitle-sc-1tn30zk-11 iPHpya gfGINs"
+          class="card__Title-sc-1tn30zk-0 card__FeatureTitle-sc-1tn30zk-11 hyRsiq dDyuCU"
         >
           Tiger King
         </p>
         <p
-          class="card__FeatureText-sc-1tn30zk-9 gwQeKE"
+          class="card__FeatureText-sc-1tn30zk-9 gNhdxs"
         >
           An exploration of big cat breeding and its bizarre underworld, populated by eccentric characters.
         </p>
         <button
-          class="card__FeatureClose-sc-1tn30zk-12 bqXOHA"
+          class="card__FeatureClose-sc-1tn30zk-12 ehCVuo"
         >
           <img
             alt="Close"
@@ -564,16 +564,16 @@ exports[`<Card /> With one feature open, clicking another will open that feature
           />
         </button>
         <div
-          class="card__Group-sc-1tn30zk-2 quZvM"
+          class="card__Group-sc-1tn30zk-2 kPAngs"
         >
           <div
-            class="card__Maturity-sc-1tn30zk-14 evEtKC"
+            class="card__Maturity-sc-1tn30zk-14 jMlCpq"
           >
             18
              
           </div>
           <p
-            class="card__FeatureText-sc-1tn30zk-9 kEWXEW"
+            class="card__FeatureText-sc-1tn30zk-9 dXMjEW"
             font-weight="bold"
           >
             Documentaries
@@ -583,7 +583,7 @@ exports[`<Card /> With one feature open, clicking another will open that feature
           class="player__Container-sc-1aq7af5-0"
         >
           <button
-            class="player__Button-sc-1aq7af5-4 iHPtbY"
+            class="player__Button-sc-1aq7af5-4 hptpaM"
           >
             Play
           </button>
@@ -592,34 +592,34 @@ exports[`<Card /> With one feature open, clicking another will open that feature
     </div>
   </div>
   <div
-    class="card__Container-sc-1tn30zk-1 qpcHX"
+    class="card__Container-sc-1tn30zk-1 Dklfr"
   >
     <p
-      class="card__Title-sc-1tn30zk-0 iPHpya"
+      class="card__Title-sc-1tn30zk-0 hyRsiq"
     >
       Comedies
     </p>
     <div
-      class="card__Entities-sc-1tn30zk-5 bJGxpN"
+      class="card__Entities-sc-1tn30zk-5 kWOGzp"
     >
       <div
-        class="card__Item-sc-1tn30zk-8 hllYeq"
+        class="card__Item-sc-1tn30zk-8 jaejCa"
         data-testid="the-office-card-item"
       >
         <img
-          class="card__Image-sc-1tn30zk-7 jVaXVh"
+          class="card__Image-sc-1tn30zk-7 gCwlmd"
           src="/images/series/comedies/the-office/small.jpg"
         />
         <div
-          class="card__Meta-sc-1tn30zk-6 hSiHRx"
+          class="card__Meta-sc-1tn30zk-6 hqEziZ"
         >
           <p
-            class="card__Subtitle-sc-1tn30zk-3 hRkAZG"
+            class="card__Subtitle-sc-1tn30zk-3 dupffi"
           >
             The Office
           </p>
           <p
-            class="card__Text-sc-1tn30zk-4 fwLGcr"
+            class="card__Text-sc-1tn30zk-4 ZQkhT"
           >
             A motley group of office workers go through hilarious misadventures at the Scranton, Pennsylvania, branch of the Dunder Mifflin Paper Company.
           </p>
@@ -632,37 +632,37 @@ exports[`<Card /> With one feature open, clicking another will open that feature
 
 exports[`<Card /> With one feature open, clicking another will open that feature and close the current one 3`] = `
 <div
-  class="card__Group-sc-1tn30zk-2 ksTbFs"
+  class="card__Group-sc-1tn30zk-2 hbjgLk"
 >
   <div
-    class="card__Container-sc-1tn30zk-1 qpcHX"
+    class="card__Container-sc-1tn30zk-1 Dklfr"
   >
     <p
-      class="card__Title-sc-1tn30zk-0 iPHpya"
+      class="card__Title-sc-1tn30zk-0 hyRsiq"
     >
       Documentaries
     </p>
     <div
-      class="card__Entities-sc-1tn30zk-5 bJGxpN"
+      class="card__Entities-sc-1tn30zk-5 kWOGzp"
     >
       <div
-        class="card__Item-sc-1tn30zk-8 hllYeq"
+        class="card__Item-sc-1tn30zk-8 jaejCa"
         data-testid="tiger-king-card-item"
       >
         <img
-          class="card__Image-sc-1tn30zk-7 jVaXVh"
+          class="card__Image-sc-1tn30zk-7 gCwlmd"
           src="/images/series/documentaries/tiger-king/small.jpg"
         />
         <div
-          class="card__Meta-sc-1tn30zk-6 hSiHRx"
+          class="card__Meta-sc-1tn30zk-6 hqEziZ"
         >
           <p
-            class="card__Subtitle-sc-1tn30zk-3 hRkAZG"
+            class="card__Subtitle-sc-1tn30zk-3 dupffi"
           >
             Tiger King
           </p>
           <p
-            class="card__Text-sc-1tn30zk-4 fwLGcr"
+            class="card__Text-sc-1tn30zk-4 ZQkhT"
           >
             An exploration of big cat breeding and its bizarre underworld, populated by eccentric characters.
           </p>
@@ -671,34 +671,34 @@ exports[`<Card /> With one feature open, clicking another will open that feature
     </div>
   </div>
   <div
-    class="card__Container-sc-1tn30zk-1 qpcHX"
+    class="card__Container-sc-1tn30zk-1 Dklfr"
   >
     <p
-      class="card__Title-sc-1tn30zk-0 iPHpya"
+      class="card__Title-sc-1tn30zk-0 hyRsiq"
     >
       Comedies
     </p>
     <div
-      class="card__Entities-sc-1tn30zk-5 bJGxpN"
+      class="card__Entities-sc-1tn30zk-5 kWOGzp"
     >
       <div
-        class="card__Item-sc-1tn30zk-8 hllYeq"
+        class="card__Item-sc-1tn30zk-8 jaejCa"
         data-testid="the-office-card-item"
       >
         <img
-          class="card__Image-sc-1tn30zk-7 jVaXVh"
+          class="card__Image-sc-1tn30zk-7 gCwlmd"
           src="/images/series/comedies/the-office/small.jpg"
         />
         <div
-          class="card__Meta-sc-1tn30zk-6 hSiHRx"
+          class="card__Meta-sc-1tn30zk-6 hqEziZ"
         >
           <p
-            class="card__Subtitle-sc-1tn30zk-3 hRkAZG"
+            class="card__Subtitle-sc-1tn30zk-3 dupffi"
           >
             The Office
           </p>
           <p
-            class="card__Text-sc-1tn30zk-4 fwLGcr"
+            class="card__Text-sc-1tn30zk-4 ZQkhT"
           >
             A motley group of office workers go through hilarious misadventures at the Scranton, Pennsylvania, branch of the Dunder Mifflin Paper Company.
           </p>
@@ -706,24 +706,24 @@ exports[`<Card /> With one feature open, clicking another will open that feature
       </div>
     </div>
     <div
-      class="card__Feature-sc-1tn30zk-10 haALGB"
+      class="card__Feature-sc-1tn30zk-10 dBBjXN"
       src="/images/series/comedies/the-office/large.jpg"
     >
       <div
-        class="card__Content-sc-1tn30zk-13 diFTUM"
+        class="card__Content-sc-1tn30zk-13 hQQPtI"
       >
         <p
-          class="card__Title-sc-1tn30zk-0 card__FeatureTitle-sc-1tn30zk-11 iPHpya gfGINs"
+          class="card__Title-sc-1tn30zk-0 card__FeatureTitle-sc-1tn30zk-11 hyRsiq dDyuCU"
         >
           The Office
         </p>
         <p
-          class="card__FeatureText-sc-1tn30zk-9 gwQeKE"
+          class="card__FeatureText-sc-1tn30zk-9 gNhdxs"
         >
           A motley group of office workers go through hilarious misadventures at the Scranton, Pennsylvania, branch of the Dunder Mifflin Paper Company.
         </p>
         <button
-          class="card__FeatureClose-sc-1tn30zk-12 bqXOHA"
+          class="card__FeatureClose-sc-1tn30zk-12 ehCVuo"
         >
           <img
             alt="Close"
@@ -731,16 +731,16 @@ exports[`<Card /> With one feature open, clicking another will open that feature
           />
         </button>
         <div
-          class="card__Group-sc-1tn30zk-2 quZvM"
+          class="card__Group-sc-1tn30zk-2 kPAngs"
         >
           <div
-            class="card__Maturity-sc-1tn30zk-14 jzqIFl"
+            class="card__Maturity-sc-1tn30zk-14 dAChLd"
           >
             PG
              
           </div>
           <p
-            class="card__FeatureText-sc-1tn30zk-9 kEWXEW"
+            class="card__FeatureText-sc-1tn30zk-9 dXMjEW"
             font-weight="bold"
           >
             Comedies
@@ -750,7 +750,7 @@ exports[`<Card /> With one feature open, clicking another will open that feature
           class="player__Container-sc-1aq7af5-0"
         >
           <button
-            class="player__Button-sc-1aq7af5-4 iHPtbY"
+            class="player__Button-sc-1aq7af5-4 hptpaM"
           >
             Play
           </button>
@@ -763,37 +763,37 @@ exports[`<Card /> With one feature open, clicking another will open that feature
 
 exports[`<Card /> renders the <Card /> with populated data 1`] = `
 <div
-  class="card__Group-sc-1tn30zk-2 ksTbFs"
+  class="card__Group-sc-1tn30zk-2 hbjgLk"
 >
   <div
-    class="card__Container-sc-1tn30zk-1 qpcHX"
+    class="card__Container-sc-1tn30zk-1 Dklfr"
   >
     <p
-      class="card__Title-sc-1tn30zk-0 iPHpya"
+      class="card__Title-sc-1tn30zk-0 hyRsiq"
     >
       Documentaries
     </p>
     <div
-      class="card__Entities-sc-1tn30zk-5 bJGxpN"
+      class="card__Entities-sc-1tn30zk-5 kWOGzp"
     >
       <div
-        class="card__Item-sc-1tn30zk-8 hllYeq"
+        class="card__Item-sc-1tn30zk-8 jaejCa"
         data-testid="tiger-king-card-item"
       >
         <img
-          class="card__Image-sc-1tn30zk-7 jVaXVh"
+          class="card__Image-sc-1tn30zk-7 gCwlmd"
           src="/images/series/documentaries/tiger-king/small.jpg"
         />
         <div
-          class="card__Meta-sc-1tn30zk-6 hSiHRx"
+          class="card__Meta-sc-1tn30zk-6 hqEziZ"
         >
           <p
-            class="card__Subtitle-sc-1tn30zk-3 hRkAZG"
+            class="card__Subtitle-sc-1tn30zk-3 dupffi"
           >
             Tiger King
           </p>
           <p
-            class="card__Text-sc-1tn30zk-4 fwLGcr"
+            class="card__Text-sc-1tn30zk-4 ZQkhT"
           >
             An exploration of big cat breeding and its bizarre underworld, populated by eccentric characters.
           </p>
@@ -802,34 +802,34 @@ exports[`<Card /> renders the <Card /> with populated data 1`] = `
     </div>
   </div>
   <div
-    class="card__Container-sc-1tn30zk-1 qpcHX"
+    class="card__Container-sc-1tn30zk-1 Dklfr"
   >
     <p
-      class="card__Title-sc-1tn30zk-0 iPHpya"
+      class="card__Title-sc-1tn30zk-0 hyRsiq"
     >
       Comedies
     </p>
     <div
-      class="card__Entities-sc-1tn30zk-5 bJGxpN"
+      class="card__Entities-sc-1tn30zk-5 kWOGzp"
     >
       <div
-        class="card__Item-sc-1tn30zk-8 hllYeq"
+        class="card__Item-sc-1tn30zk-8 jaejCa"
         data-testid="the-office-card-item"
       >
         <img
-          class="card__Image-sc-1tn30zk-7 jVaXVh"
+          class="card__Image-sc-1tn30zk-7 gCwlmd"
           src="/images/series/comedies/the-office/small.jpg"
         />
         <div
-          class="card__Meta-sc-1tn30zk-6 hSiHRx"
+          class="card__Meta-sc-1tn30zk-6 hqEziZ"
         >
           <p
-            class="card__Subtitle-sc-1tn30zk-3 hRkAZG"
+            class="card__Subtitle-sc-1tn30zk-3 dupffi"
           >
             The Office
           </p>
           <p
-            class="card__Text-sc-1tn30zk-4 fwLGcr"
+            class="card__Text-sc-1tn30zk-4 ZQkhT"
           >
             A motley group of office workers go through hilarious misadventures at the Scranton, Pennsylvania, branch of the Dunder Mifflin Paper Company.
           </p>

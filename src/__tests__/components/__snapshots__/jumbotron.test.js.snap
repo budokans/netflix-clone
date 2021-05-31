@@ -2,35 +2,35 @@
 
 exports[`<Jumbotron /> renders the <Jumbotron /> with populated data 1`] = `
 <section
-  class="jumbotron__Container-sc-1al52go-3 gxbHvt"
+  class="jumbotron__Container-sc-1al52go-3 jXjZkV"
 >
   <div
-    class="jumbotron__Item-sc-1al52go-2 iijFuS"
+    class="jumbotron__Item-sc-1al52go-2 gkvtDy"
   >
     <div
-      class="jumbotron__Inner-sc-1al52go-0 kJrWkr"
+      class="jumbotron__Inner-sc-1al52go-0 DvhOj"
       direction="row"
     >
       <div
-        class="jumbotron__Pane-sc-1al52go-1 gyJfvN"
+        class="jumbotron__Pane-sc-1al52go-1 eSvSjN"
       >
         <h1
-          class="jumbotron__Title-sc-1al52go-4 npTDW"
+          class="jumbotron__Title-sc-1al52go-4 bOsqBO"
         >
           Enjoy Netflix on your TV.
         </h1>
         <h2
-          class="jumbotron__Subtitle-sc-1al52go-5 euxbbV"
+          class="jumbotron__Subtitle-sc-1al52go-5 jSuANN"
         >
           Watch titles on Smart TVs, PlayStation, Xbox, Chromecast, Apple TV, Blu-ray players and more.
         </h2>
       </div>
       <div
-        class="jumbotron__Pane-sc-1al52go-1 gyJfvN"
+        class="jumbotron__Pane-sc-1al52go-1 eSvSjN"
       >
         <img
           alt="Tiger King on Netflix"
-          class="jumbotron__Image-sc-1al52go-6 bVmSwN"
+          class="jumbotron__Image-sc-1al52go-6 dfeiRJ"
           data-testid="1-jumbo-image"
           src="/images/misc/home-tv.jpg"
         />
@@ -38,32 +38,32 @@ exports[`<Jumbotron /> renders the <Jumbotron /> with populated data 1`] = `
     </div>
   </div>
   <div
-    class="jumbotron__Item-sc-1al52go-2 iijFuS"
+    class="jumbotron__Item-sc-1al52go-2 gkvtDy"
   >
     <div
-      class="jumbotron__Inner-sc-1al52go-0 kJrWkr"
+      class="jumbotron__Inner-sc-1al52go-0 DvhOj"
       direction="row"
     >
       <div
-        class="jumbotron__Pane-sc-1al52go-1 gyJfvN"
+        class="jumbotron__Pane-sc-1al52go-1 eSvSjN"
       >
         <h1
-          class="jumbotron__Title-sc-1al52go-4 npTDW"
+          class="jumbotron__Title-sc-1al52go-4 bOsqBO"
         >
           Download your shows to watch them offline.
         </h1>
         <h2
-          class="jumbotron__Subtitle-sc-1al52go-5 euxbbV"
+          class="jumbotron__Subtitle-sc-1al52go-5 jSuANN"
         >
           Save your favourites easily and always have something to watch.
         </h2>
       </div>
       <div
-        class="jumbotron__Pane-sc-1al52go-1 gyJfvN"
+        class="jumbotron__Pane-sc-1al52go-1 eSvSjN"
       >
         <img
           alt="Stranger Things on Netflix"
-          class="jumbotron__Image-sc-1al52go-6 bVmSwN"
+          class="jumbotron__Image-sc-1al52go-6 dfeiRJ"
           data-testid="2-jumbo-image"
           src="/images/misc/home-mobile.jpg"
         />
@@ -71,32 +71,32 @@ exports[`<Jumbotron /> renders the <Jumbotron /> with populated data 1`] = `
     </div>
   </div>
   <div
-    class="jumbotron__Item-sc-1al52go-2 iijFuS"
+    class="jumbotron__Item-sc-1al52go-2 gkvtDy"
   >
     <div
-      class="jumbotron__Inner-sc-1al52go-0 kJrWkr"
+      class="jumbotron__Inner-sc-1al52go-0 DvhOj"
       direction="row"
     >
       <div
-        class="jumbotron__Pane-sc-1al52go-1 gyJfvN"
+        class="jumbotron__Pane-sc-1al52go-1 eSvSjN"
       >
         <h1
-          class="jumbotron__Title-sc-1al52go-4 npTDW"
+          class="jumbotron__Title-sc-1al52go-4 bOsqBO"
         >
           Watch Netflix everywhere.
         </h1>
         <h2
-          class="jumbotron__Subtitle-sc-1al52go-5 euxbbV"
+          class="jumbotron__Subtitle-sc-1al52go-5 jSuANN"
         >
           Stream unlimited movies and TV shows on your phone, tablet, laptop and TV without paying more.
         </h2>
       </div>
       <div
-        class="jumbotron__Pane-sc-1al52go-1 gyJfvN"
+        class="jumbotron__Pane-sc-1al52go-1 eSvSjN"
       >
         <img
           alt="Money Heist on Netflix"
-          class="jumbotron__Image-sc-1al52go-6 bVmSwN"
+          class="jumbotron__Image-sc-1al52go-6 dfeiRJ"
           data-testid="3-jumbo-image"
           src="/images/misc/home-imac.jpg"
         />

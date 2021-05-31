@@ -2,26 +2,26 @@
 
 exports[`<Profiles /> renders the with populated data 1`] = `
 <div
-  class="sc-bdfBwQ jrwAQZ"
+  class="sc-bdnxRM chIzhu"
 >
   <h1
-    class="sc-gsTCUz busbyR"
+    class="sc-gtsrHT cqwjKz"
   >
     Who's watching?
   </h1>
   <ul
-    class="sc-dlfnbm gSzkam"
+    class="sc-dlnjwi fkjZCr"
   >
     <li
-      class="sc-jSgupP gyekYl"
+      class="sc-jSFjdj kyqqnW"
     >
       <img
-        class="sc-eCssSg uLbMk"
+        class="sc-eCApnc fsqFbw"
         data-testid="profiles-picture"
         src="/images/users//images/users/1.png.png"
       />
       <p
-        class="sc-hKgILt hEbttM"
+        class="sc-hKFxyN xvobz"
       >
         Steven Webster
       </p>
@@ -32,26 +32,26 @@ exports[`<Profiles /> renders the with populated data 1`] = `
 
 exports[`<Profiles /> renders the with populated data but misc profile image 1`] = `
 <div
-  class="sc-bdfBwQ jrwAQZ"
+  class="sc-bdnxRM chIzhu"
 >
   <h1
-    class="sc-gsTCUz busbyR"
+    class="sc-gtsrHT cqwjKz"
   >
     Who's watching?
   </h1>
   <ul
-    class="sc-dlfnbm gSzkam"
+    class="sc-dlnjwi fkjZCr"
   >
     <li
-      class="sc-jSgupP gyekYl"
+      class="sc-jSFjdj kyqqnW"
     >
       <img
-        class="sc-eCssSg uLbMk"
+        class="sc-eCApnc fsqFbw"
         data-testid="profiles-picture-misc"
         src="/images/users//images/misc/loading.gif.png"
       />
       <p
-        class="sc-hKgILt hEbttM"
+        class="sc-hKFxyN xvobz"
       >
         Steven Webster
       </p>

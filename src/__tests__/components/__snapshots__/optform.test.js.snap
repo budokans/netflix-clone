@@ -2,19 +2,19 @@
 
 exports[`<Optform /> renders <Optform /> with populated data 1`] = `
 <div
-  class="opt-form__Container-sc-1k1ktyx-0 hWyLlD"
+  class="opt-form__Container-sc-1k1ktyx-0 bJgfsX"
 >
   <p
-    class="opt-form__Text-sc-1k1ktyx-3 kANRtv"
+    class="opt-form__Text-sc-1k1ktyx-3 eMPjQj"
   >
     Ready to watch Netflix? Enter your email to create or restart your membership.
   </p>
   <input
-    class="opt-form__Input-sc-1k1ktyx-1 kYXHvF"
+    class="opt-form__Input-sc-1k1ktyx-1 gCclBh"
     placeholder="Email address"
   />
   <button
-    class="opt-form__Button-sc-1k1ktyx-2 bvxJVI"
+    class="opt-form__Button-sc-1k1ktyx-2 djmVxc"
   >
     Get started
     <img
