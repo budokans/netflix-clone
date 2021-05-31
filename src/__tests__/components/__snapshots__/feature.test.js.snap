@@ -2,13 +2,13 @@
 
 exports[`<Feature /> renders the <Feature /> with only the <Feature.Subtitle/> 1`] = `
 <div
-  class="feature__Container-sc-19zs3jp-0 hPnhgU"
+  class="feature__Container-sc-19zs3jp-0 kQnuIU"
 >
   <div
-    class="feature__Frame-sc-19zs3jp-1 lmzTVI"
+    class="feature__Frame-sc-19zs3jp-1 gMJVDQ"
   >
     <h2
-      class="feature__Subtitle-sc-19zs3jp-3 emkVPe"
+      class="feature__Subtitle-sc-19zs3jp-3 faqUKy"
     >
       Watch anywhere. Cancel at any time.
     </h2>
@@ -18,13 +18,13 @@ exports[`<Feature /> renders the <Feature /> with only the <Feature.Subtitle/> 1
 
 exports[`<Feature /> renders the <Feature /> with only the <Feature.Title/> 1`] = `
 <div
-  class="feature__Container-sc-19zs3jp-0 hPnhgU"
+  class="feature__Container-sc-19zs3jp-0 kQnuIU"
 >
   <div
-    class="feature__Frame-sc-19zs3jp-1 lmzTVI"
+    class="feature__Frame-sc-19zs3jp-1 gMJVDQ"
   >
     <h1
-      class="feature__Title-sc-19zs3jp-2 ca-Daye"
+      class="feature__Title-sc-19zs3jp-2 uXOAC"
     >
       Unlimited movies, TV shows and more.
     </h1>
@@ -34,18 +34,18 @@ exports[`<Feature /> renders the <Feature /> with only the <Feature.Title/> 1`] 
 
 exports[`<Feature /> renders the <Feature /> with populated data 1`] = `
 <div
-  class="feature__Container-sc-19zs3jp-0 hPnhgU"
+  class="feature__Container-sc-19zs3jp-0 kQnuIU"
 >
   <div
-    class="feature__Frame-sc-19zs3jp-1 lmzTVI"
+    class="feature__Frame-sc-19zs3jp-1 gMJVDQ"
   >
     <h1
-      class="feature__Title-sc-19zs3jp-2 ca-Daye"
+      class="feature__Title-sc-19zs3jp-2 uXOAC"
     >
       Unlimited movies, TV shows and more.
     </h1>
     <h2
-      class="feature__Subtitle-sc-19zs3jp-3 emkVPe"
+      class="feature__Subtitle-sc-19zs3jp-3 faqUKy"
     >
       Watch anywhere. Cancel at any time.
     </h2>

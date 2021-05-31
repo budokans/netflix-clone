@@ -40,9 +40,12 @@
   "jest": {
     "collectCoverageFrom": [
       "<rootDir>/src/**/*.js",
-      "!<rootDir>/src/index.js",
       "!<rootDir>/src/app.js",
+      "!<rootDir>/src/helpers/routes.js",
+      "!<rootDir>/src/index.js",
       "!<rootDir>/src/seed.js",
+      "!<rootDir>/src/utils/index.js",
+      "!<rootDir>/src/pages/index.js",
       "!<rootDir>/src/global-styles.js",
       "!<rootDir>/src/components/index.js",
       "!<rootDir>/src/hooks/*.js",
@@ -57,8 +60,8 @@
       }
     },
     "coverageReporters": [
-      "text",
-      "html"
+      "html",
+      "text"
     ]
   },
   "devDependencies": {

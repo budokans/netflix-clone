@@ -2,120 +2,120 @@
 
 exports[`<Footer /> renders the <Footer /> with populated data 1`] = `
 <div
-  class="footer__Container-eh6b4z-0 qwEBr"
+  class="footer__Container-eh6b4z-0 pRspb"
 >
   <p
-    class="footer__Title-eh6b4z-3 cSpvQd"
+    class="footer__Title-eh6b4z-3 cpSMCl"
   >
     Questions? Phone 0800 472 310
   </p>
   <div
-    class="footer__Break-eh6b4z-5 dJUYaW"
+    class="footer__Break-eh6b4z-5 kjZvle"
   />
   <div
-    class="footer__Row-eh6b4z-2 ljTFhy"
+    class="footer__Row-eh6b4z-2 cLfFLa"
   >
     <div
-      class="footer__Column-eh6b4z-1 aKanr"
+      class="footer__Column-eh6b4z-1 bEygbH"
     >
       <a
-        class="footer__Link-eh6b4z-4 bIcKKZ"
+        class="footer__Link-eh6b4z-4 gnKOMl"
         href="#"
       >
         FAQs
       </a>
       <a
-        class="footer__Link-eh6b4z-4 bIcKKZ"
+        class="footer__Link-eh6b4z-4 gnKOMl"
         href="#"
       >
         Investor Relations
       </a>
       <a
-        class="footer__Link-eh6b4z-4 bIcKKZ"
+        class="footer__Link-eh6b4z-4 gnKOMl"
         href="#"
       >
         Privacy
       </a>
       <a
-        class="footer__Link-eh6b4z-4 bIcKKZ"
+        class="footer__Link-eh6b4z-4 gnKOMl"
         href="#"
       >
         Speed test
       </a>
     </div>
     <div
-      class="footer__Column-eh6b4z-1 aKanr"
+      class="footer__Column-eh6b4z-1 bEygbH"
     >
       <a
-        class="footer__Link-eh6b4z-4 bIcKKZ"
+        class="footer__Link-eh6b4z-4 gnKOMl"
         href="#"
       >
         Help Center
       </a>
       <a
-        class="footer__Link-eh6b4z-4 bIcKKZ"
+        class="footer__Link-eh6b4z-4 gnKOMl"
         href="#"
       >
         Jobs
       </a>
       <a
-        class="footer__Link-eh6b4z-4 bIcKKZ"
+        class="footer__Link-eh6b4z-4 gnKOMl"
         href="#"
       >
         Cookie preferences
       </a>
       <a
-        class="footer__Link-eh6b4z-4 bIcKKZ"
+        class="footer__Link-eh6b4z-4 gnKOMl"
         href="#"
       >
         Legal notices
       </a>
     </div>
     <div
-      class="footer__Column-eh6b4z-1 aKanr"
+      class="footer__Column-eh6b4z-1 bEygbH"
     >
       <a
-        class="footer__Link-eh6b4z-4 bIcKKZ"
+        class="footer__Link-eh6b4z-4 gnKOMl"
         href="#"
       >
         Account
       </a>
       <a
-        class="footer__Link-eh6b4z-4 bIcKKZ"
+        class="footer__Link-eh6b4z-4 gnKOMl"
         href="#"
       >
         Ways to watch
       </a>
       <a
-        class="footer__Link-eh6b4z-4 bIcKKZ"
+        class="footer__Link-eh6b4z-4 gnKOMl"
         href="#"
       >
         Corporate Information
       </a>
       <a
-        class="footer__Link-eh6b4z-4 bIcKKZ"
+        class="footer__Link-eh6b4z-4 gnKOMl"
         href="#"
       >
         Netflix Originals
       </a>
     </div>
     <div
-      class="footer__Column-eh6b4z-1 aKanr"
+      class="footer__Column-eh6b4z-1 bEygbH"
     >
       <a
-        class="footer__Link-eh6b4z-4 bIcKKZ"
+        class="footer__Link-eh6b4z-4 gnKOMl"
         href="#"
       >
         Media Centre
       </a>
       <a
-        class="footer__Link-eh6b4z-4 bIcKKZ"
+        class="footer__Link-eh6b4z-4 gnKOMl"
         href="#"
       >
         Terms of Use
       </a>
       <a
-        class="footer__Link-eh6b4z-4 bIcKKZ"
+        class="footer__Link-eh6b4z-4 gnKOMl"
         href="#"
       >
         Contact us
@@ -123,10 +123,10 @@ exports[`<Footer /> renders the <Footer /> with populated data 1`] = `
     </div>
   </div>
   <div
-    class="footer__Break-eh6b4z-5 dJUYaW"
+    class="footer__Break-eh6b4z-5 kjZvle"
   />
   <p
-    class="footer__Text-eh6b4z-6 jVcuq"
+    class="footer__Text-eh6b4z-6 jOtWYy"
   >
     Netflix New Zealand
   </p>

@@ -2,21 +2,21 @@
 
 exports[`<Accordion /> opens and closes the <Accordion.Body /> when <Accordion.Header /> is clicked 1`] = `
 <section
-  class="accordion__Container-sc-1wnyt6p-0 iwAisH"
+  class="accordion__Container-sc-1wnyt6p-0 liyOYH"
 >
   <div
-    class="accordion__Inner-sc-1wnyt6p-1 gBZrXQ"
+    class="accordion__Inner-sc-1wnyt6p-1 jjfQBs"
   >
     <h1
-      class="accordion__Title-sc-1wnyt6p-3 cQxyBa"
+      class="accordion__Title-sc-1wnyt6p-3 fCRCbi"
     >
       Frequently Asked Questions
     </h1>
     <div
-      class="accordion__Item-sc-1wnyt6p-2 cchlqp"
+      class="accordion__Item-sc-1wnyt6p-2 MrKHl"
     >
       <div
-        class="accordion__Header-sc-1wnyt6p-4 dyEQIz"
+        class="accordion__Header-sc-1wnyt6p-4 jbzsWb"
       >
         What is Netflix?
         <img
@@ -26,10 +26,10 @@ exports[`<Accordion /> opens and closes the <Accordion.Body /> when <Accordion.H
       </div>
     </div>
     <div
-      class="accordion__Item-sc-1wnyt6p-2 cchlqp"
+      class="accordion__Item-sc-1wnyt6p-2 MrKHl"
     >
       <div
-        class="accordion__Header-sc-1wnyt6p-4 dyEQIz"
+        class="accordion__Header-sc-1wnyt6p-4 jbzsWb"
       >
         How much does Netflix cost?
         <img
@@ -39,10 +39,10 @@ exports[`<Accordion /> opens and closes the <Accordion.Body /> when <Accordion.H
       </div>
     </div>
     <div
-      class="accordion__Item-sc-1wnyt6p-2 cchlqp"
+      class="accordion__Item-sc-1wnyt6p-2 MrKHl"
     >
       <div
-        class="accordion__Header-sc-1wnyt6p-4 dyEQIz"
+        class="accordion__Header-sc-1wnyt6p-4 jbzsWb"
       >
         Where can I watch?
         <img
@@ -52,10 +52,10 @@ exports[`<Accordion /> opens and closes the <Accordion.Body /> when <Accordion.H
       </div>
     </div>
     <div
-      class="accordion__Item-sc-1wnyt6p-2 cchlqp"
+      class="accordion__Item-sc-1wnyt6p-2 MrKHl"
     >
       <div
-        class="accordion__Header-sc-1wnyt6p-4 dyEQIz"
+        class="accordion__Header-sc-1wnyt6p-4 jbzsWb"
       >
         How do I cancel?
         <img
@@ -65,10 +65,10 @@ exports[`<Accordion /> opens and closes the <Accordion.Body /> when <Accordion.H
       </div>
     </div>
     <div
-      class="accordion__Item-sc-1wnyt6p-2 cchlqp"
+      class="accordion__Item-sc-1wnyt6p-2 MrKHl"
     >
       <div
-        class="accordion__Header-sc-1wnyt6p-4 dyEQIz"
+        class="accordion__Header-sc-1wnyt6p-4 jbzsWb"
       >
         What can I watch on Netflix?
         <img
@@ -83,21 +83,21 @@ exports[`<Accordion /> opens and closes the <Accordion.Body /> when <Accordion.H
 
 exports[`<Accordion /> opens and closes the <Accordion.Body /> when <Accordion.Header /> is clicked 2`] = `
 <section
-  class="accordion__Container-sc-1wnyt6p-0 iwAisH"
+  class="accordion__Container-sc-1wnyt6p-0 liyOYH"
 >
   <div
-    class="accordion__Inner-sc-1wnyt6p-1 gBZrXQ"
+    class="accordion__Inner-sc-1wnyt6p-1 jjfQBs"
   >
     <h1
-      class="accordion__Title-sc-1wnyt6p-3 cQxyBa"
+      class="accordion__Title-sc-1wnyt6p-3 fCRCbi"
     >
       Frequently Asked Questions
     </h1>
     <div
-      class="accordion__Item-sc-1wnyt6p-2 cchlqp"
+      class="accordion__Item-sc-1wnyt6p-2 MrKHl"
     >
       <div
-        class="accordion__Header-sc-1wnyt6p-4 dyEQIz"
+        class="accordion__Header-sc-1wnyt6p-4 jbzsWb"
       >
         What is Netflix?
         <img
@@ -107,10 +107,10 @@ exports[`<Accordion /> opens and closes the <Accordion.Body /> when <Accordion.H
       </div>
     </div>
     <div
-      class="accordion__Item-sc-1wnyt6p-2 cchlqp"
+      class="accordion__Item-sc-1wnyt6p-2 MrKHl"
     >
       <div
-        class="accordion__Header-sc-1wnyt6p-4 dyEQIz"
+        class="accordion__Header-sc-1wnyt6p-4 jbzsWb"
       >
         How much does Netflix cost?
         <img
@@ -119,16 +119,16 @@ exports[`<Accordion /> opens and closes the <Accordion.Body /> when <Accordion.H
         />
       </div>
       <p
-        class="accordion__Body-sc-1wnyt6p-5 jrMtVs"
+        class="accordion__Body-sc-1wnyt6p-5 hwqYxc"
       >
         Watch Netflix on your smartphone, tablet, Smart TV, laptop or streaming device, all for one fixed monthly fee. Plans range from $11.99 to $21.99 per month. No extra costs, no contracts.
       </p>
     </div>
     <div
-      class="accordion__Item-sc-1wnyt6p-2 cchlqp"
+      class="accordion__Item-sc-1wnyt6p-2 MrKHl"
     >
       <div
-        class="accordion__Header-sc-1wnyt6p-4 dyEQIz"
+        class="accordion__Header-sc-1wnyt6p-4 jbzsWb"
       >
         Where can I watch?
         <img
@@ -138,10 +138,10 @@ exports[`<Accordion /> opens and closes the <Accordion.Body /> when <Accordion.H
       </div>
     </div>
     <div
-      class="accordion__Item-sc-1wnyt6p-2 cchlqp"
+      class="accordion__Item-sc-1wnyt6p-2 MrKHl"
     >
       <div
-        class="accordion__Header-sc-1wnyt6p-4 dyEQIz"
+        class="accordion__Header-sc-1wnyt6p-4 jbzsWb"
       >
         How do I cancel?
         <img
@@ -151,10 +151,10 @@ exports[`<Accordion /> opens and closes the <Accordion.Body /> when <Accordion.H
       </div>
     </div>
     <div
-      class="accordion__Item-sc-1wnyt6p-2 cchlqp"
+      class="accordion__Item-sc-1wnyt6p-2 MrKHl"
     >
       <div
-        class="accordion__Header-sc-1wnyt6p-4 dyEQIz"
+        class="accordion__Header-sc-1wnyt6p-4 jbzsWb"
       >
         What can I watch on Netflix?
         <img
@@ -169,21 +169,21 @@ exports[`<Accordion /> opens and closes the <Accordion.Body /> when <Accordion.H
 
 exports[`<Accordion /> opens and closes the <Accordion.Body /> when <Accordion.Header /> is clicked 3`] = `
 <section
-  class="accordion__Container-sc-1wnyt6p-0 iwAisH"
+  class="accordion__Container-sc-1wnyt6p-0 liyOYH"
 >
   <div
-    class="accordion__Inner-sc-1wnyt6p-1 gBZrXQ"
+    class="accordion__Inner-sc-1wnyt6p-1 jjfQBs"
   >
     <h1
-      class="accordion__Title-sc-1wnyt6p-3 cQxyBa"
+      class="accordion__Title-sc-1wnyt6p-3 fCRCbi"
     >
       Frequently Asked Questions
     </h1>
     <div
-      class="accordion__Item-sc-1wnyt6p-2 cchlqp"
+      class="accordion__Item-sc-1wnyt6p-2 MrKHl"
     >
       <div
-        class="accordion__Header-sc-1wnyt6p-4 dyEQIz"
+        class="accordion__Header-sc-1wnyt6p-4 jbzsWb"
       >
         What is Netflix?
         <img
@@ -193,10 +193,10 @@ exports[`<Accordion /> opens and closes the <Accordion.Body /> when <Accordion.H
       </div>
     </div>
     <div
-      class="accordion__Item-sc-1wnyt6p-2 cchlqp"
+      class="accordion__Item-sc-1wnyt6p-2 MrKHl"
     >
       <div
-        class="accordion__Header-sc-1wnyt6p-4 dyEQIz"
+        class="accordion__Header-sc-1wnyt6p-4 jbzsWb"
       >
         How much does Netflix cost?
         <img
@@ -206,10 +206,10 @@ exports[`<Accordion /> opens and closes the <Accordion.Body /> when <Accordion.H
       </div>
     </div>
     <div
-      class="accordion__Item-sc-1wnyt6p-2 cchlqp"
+      class="accordion__Item-sc-1wnyt6p-2 MrKHl"
     >
       <div
-        class="accordion__Header-sc-1wnyt6p-4 dyEQIz"
+        class="accordion__Header-sc-1wnyt6p-4 jbzsWb"
       >
         Where can I watch?
         <img
@@ -219,10 +219,10 @@ exports[`<Accordion /> opens and closes the <Accordion.Body /> when <Accordion.H
       </div>
     </div>
     <div
-      class="accordion__Item-sc-1wnyt6p-2 cchlqp"
+      class="accordion__Item-sc-1wnyt6p-2 MrKHl"
     >
       <div
-        class="accordion__Header-sc-1wnyt6p-4 dyEQIz"
+        class="accordion__Header-sc-1wnyt6p-4 jbzsWb"
       >
         How do I cancel?
         <img
@@ -232,10 +232,10 @@ exports[`<Accordion /> opens and closes the <Accordion.Body /> when <Accordion.H
       </div>
     </div>
     <div
-      class="accordion__Item-sc-1wnyt6p-2 cchlqp"
+      class="accordion__Item-sc-1wnyt6p-2 MrKHl"
     >
       <div
-        class="accordion__Header-sc-1wnyt6p-4 dyEQIz"
+        class="accordion__Header-sc-1wnyt6p-4 jbzsWb"
       >
         What can I watch on Netflix?
         <img
@@ -250,21 +250,21 @@ exports[`<Accordion /> opens and closes the <Accordion.Body /> when <Accordion.H
 
 exports[`<Accordion /> renders the <Accordion /> with populated data 1`] = `
 <section
-  class="accordion__Container-sc-1wnyt6p-0 iwAisH"
+  class="accordion__Container-sc-1wnyt6p-0 liyOYH"
 >
   <div
-    class="accordion__Inner-sc-1wnyt6p-1 gBZrXQ"
+    class="accordion__Inner-sc-1wnyt6p-1 jjfQBs"
   >
     <h1
-      class="accordion__Title-sc-1wnyt6p-3 cQxyBa"
+      class="accordion__Title-sc-1wnyt6p-3 fCRCbi"
     >
       Frequently Asked Questions
     </h1>
     <div
-      class="accordion__Item-sc-1wnyt6p-2 cchlqp"
+      class="accordion__Item-sc-1wnyt6p-2 MrKHl"
     >
       <div
-        class="accordion__Header-sc-1wnyt6p-4 dyEQIz"
+        class="accordion__Header-sc-1wnyt6p-4 jbzsWb"
       >
         What is Netflix?
         <img
@@ -274,10 +274,10 @@ exports[`<Accordion /> renders the <Accordion /> with populated data 1`] = `
       </div>
     </div>
     <div
-      class="accordion__Item-sc-1wnyt6p-2 cchlqp"
+      class="accordion__Item-sc-1wnyt6p-2 MrKHl"
     >
       <div
-        class="accordion__Header-sc-1wnyt6p-4 dyEQIz"
+        class="accordion__Header-sc-1wnyt6p-4 jbzsWb"
       >
         How much does Netflix cost?
         <img
@@ -287,10 +287,10 @@ exports[`<Accordion /> renders the <Accordion /> with populated data 1`] = `
       </div>
     </div>
     <div
-      class="accordion__Item-sc-1wnyt6p-2 cchlqp"
+      class="accordion__Item-sc-1wnyt6p-2 MrKHl"
     >
       <div
-        class="accordion__Header-sc-1wnyt6p-4 dyEQIz"
+        class="accordion__Header-sc-1wnyt6p-4 jbzsWb"
       >
         Where can I watch?
         <img
@@ -300,10 +300,10 @@ exports[`<Accordion /> renders the <Accordion /> with populated data 1`] = `
       </div>
     </div>
     <div
-      class="accordion__Item-sc-1wnyt6p-2 cchlqp"
+      class="accordion__Item-sc-1wnyt6p-2 MrKHl"
     >
       <div
-        class="accordion__Header-sc-1wnyt6p-4 dyEQIz"
+        class="accordion__Header-sc-1wnyt6p-4 jbzsWb"
       >
         How do I cancel?
         <img
@@ -313,10 +313,10 @@ exports[`<Accordion /> renders the <Accordion /> with populated data 1`] = `
       </div>
     </div>
     <div
-      class="accordion__Item-sc-1wnyt6p-2 cchlqp"
+      class="accordion__Item-sc-1wnyt6p-2 MrKHl"
     >
       <div
-        class="accordion__Header-sc-1wnyt6p-4 dyEQIz"
+        class="accordion__Header-sc-1wnyt6p-4 jbzsWb"
       >
         What can I watch on Netflix?
         <img
