@@ -50,7 +50,7 @@ export default function SignUp() {
               type="text"
               placeholder="First name"
               value={firstName}
-              onChange={(e) => setFirstName(e.target.value)}
+              onChange={({ target }) => setFirstName(target.value)}
               autoComplete="given-name"
               required
             />
@@ -59,7 +59,7 @@ export default function SignUp() {
               type="email"
               placeholder="Email address"
               value={emailAddress}
-              onChange={(e) => setEmailAddress(e.target.value)}
+              onChange={({ target }) => setEmailAddress(target.value)}
               autoComplete="email"
               required
             />
@@ -68,11 +68,15 @@ export default function SignUp() {
               type="password"
               placeholder="Password"
               value={password}
-              onChange={(e) => setPassword(e.target.value)}
+              onChange={({ target }) => setPassword(target.value)}
               autoComplete="password"
               required
             />
-            <Form.Submit disabled={isInvalid} type="submit">
+            <Form.Submit
+              disabled={isInvalid}
+              type="submit"
+              data-testid="sign-up"
+            >
               Sign up
             </Form.Submit>
 
