@@ -1,0 +1,133 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<Header /> renders the basic <Header /> with a background 1`] = `
+<section
+  class="header__Background-t8lkk2-0 fXYckb"
+  data-testid="header-bg"
+>
+  <div
+    class="header__Container-t8lkk2-1 cHKNHD"
+  >
+    <p
+      class="header__Link-t8lkk2-2 kduJId"
+    >
+      Hello, I am a link!
+    </p>
+  </div>
+</section>
+`;
+
+exports[`<Header /> renders the basic <Header /> without a background 1`] = `
+<div
+  class="header__Container-t8lkk2-1 cHKNHD"
+>
+  <p
+    class="header__Link-t8lkk2-2 kduJId"
+  >
+    Hello, I am a link!
+  </p>
+</div>
+`;
+
+exports[`<Header /> renders the full <Header /> with a background 1`] = `
+<section
+  class="header__Background-t8lkk2-0 gdxKga"
+  data-testid="header-bg"
+  src="joker1"
+>
+  <div
+    class="header__Container-t8lkk2-1 cHKNHD"
+  >
+    <div
+      class="header__Group-t8lkk2-5 ePCZcS"
+    >
+      <p
+        class="header__Link-t8lkk2-2 JDVtZ"
+      >
+        TV Shows
+      </p>
+      <p
+        class="header__Link-t8lkk2-2 JDVtZ"
+      >
+        Films
+      </p>
+    </div>
+    <div
+      class="header__Group-t8lkk2-5 ePCZcS"
+    >
+      <div
+        class="header__Search-t8lkk2-10 epbsEr"
+      >
+        <button
+          class="header__SearchIcon-t8lkk2-11 jxbcqj"
+          data-testid="search-click"
+        >
+          <img
+            alt="Search"
+            src="/images/icons/search.png"
+          />
+        </button>
+        <input
+          class="header__SearchInput-t8lkk2-12 eTIQrD"
+          data-testid="search-input"
+          placeholder="Search films and shows"
+          value="Joker"
+        />
+      </div>
+      <div
+        class="header__Profile-t8lkk2-15 ceUQKg"
+      >
+        <button
+          class="header__Picture-t8lkk2-13 hJWvUZ"
+          src="images/users//images/users/1.png.png"
+        />
+        <div
+          class="header__Dropdown-t8lkk2-14 cIynco"
+        >
+          <div
+            class="header__Group-t8lkk2-5 ePCZcS"
+          >
+            <button
+              class="header__Picture-t8lkk2-13 hJWvUZ"
+              src="images/users//images/users/1.png.png"
+            />
+            <p
+              class="header__Link-t8lkk2-2 JDVtZ"
+            >
+              Steven Webster
+            </p>
+          </div>
+          <div
+            class="header__Group-t8lkk2-5 ePCZcS"
+          >
+            <p
+              class="header__Link-t8lkk2-2 JDVtZ"
+            >
+              Sign out of Netflix
+            </p>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+  <div
+    class="header__Container-t8lkk2-1 header__Feature-t8lkk2-7 cHKNHD dlJCy"
+  >
+    <h2
+      class="header__FeatureCTA-t8lkk2-8 sxsJa"
+    >
+      Watch Joker
+    </h2>
+    <p
+      class="header__Text-t8lkk2-6 eCYlrz"
+    >
+      Forever alone in a crowd...
+    </p>
+    <button
+      class="header__PlayButton-t8lkk2-9 ctUKEl"
+    >
+      Play
+    </button>
+  </div>
+</section>
+`;
