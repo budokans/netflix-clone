@@ -48,7 +48,7 @@ exports[`<Profiles /> renders the with populated data but misc profile image 1`]
       <img
         class="sc-eCApnc fsqFbw"
         data-testid="profiles-picture-misc"
-        src="/images/users//images/misc/loading.gif.png"
+        src="/images/misc/loading.gif"
       />
       <p
         class="sc-hKFxyN xvobz"

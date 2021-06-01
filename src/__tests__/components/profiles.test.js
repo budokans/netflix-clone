@@ -31,10 +31,7 @@ describe("<Profiles />", () => {
         <Profiles.Title>Who's watching?</Profiles.Title>
         <Profiles.List>
           <Profiles.User onClick={() => {}}>
-            <Profiles.Picture
-              src="/images/misc/loading.gif"
-              data-testid="profiles-picture-misc"
-            />
+            <Profiles.Picture data-testid="profiles-picture-misc" />
             <Profiles.Name>Steven Webster</Profiles.Name>
           </Profiles.User>
         </Profiles.List>
